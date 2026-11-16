@@ -1,0 +1,1001 @@
+# Recall worksheet, run 1 (hi-fi). RS = richersounds.com, PT = petertyson.co.uk, SO = sevenoakssoundandvision.co.uk.
+# For each of 100 random Richer Sounds products: "engine" = the match DeepScout found in that store (or none),
+# cand = the closest products we found by searching that store export for the same brand and model.
+
+R1 RS | Sonos Ray & Sub Mini (White) | £559.0 | ean:None
+   PT engine: -- none --
+      cand0: Sonos Sub Mini Wireless Subwoofer - White | £429.0
+      cand1: Sonos Sub Mini Wireless Subwoofer - Black | £429.0
+      cand2: Sonos Sub 4 Premium Wireless Subwoofer - White | £699.0
+      cand3: Sonos Sub 4 Premium Wireless Subwoofer - Black | £699.0
+   SO engine: -- none --
+      cand0: 1 x Sonos Ray (Black) Soundbar * 1 x Sonos Sub Mini (Black) Wireless Subwoofer * | £559.0
+      cand1: Sonos Beam Ultra + Sonos Sub Mini + Sonos Era 100 (Pair) 1 x Sonos Beam Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub Mini (Black) Wireless Subwoofer * 2 x Sonos Era 100 (Black) Wireless Speaker * | £1446.0
+      cand2: Sonos Beam Ultra + Sonos Sub Mini + Sonos Era 300 (Pair) 1 x Sonos Beam Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub Mini (Black) Wireless Subwoofer * 2 x Sonos Era 300 (Black) Wireless Speaker * | £1957.0
+      cand3: Sonos Beam (Gen 2) + Sonos Era 100 (Pair) + Sonos Sub Mini 1 x Sonos Beam (Gen 2) (Black) Soundbar With Voice Control * 2 x Sonos Era 100 (Black) Wireless Speaker * 1 x Sonos Sub Mini (Black) Wireless Subwoofer * | £1149.0
+R2 RS | KEF KC92 (Gloss White) | £2499.0 | ean:0637203050893
+   PT engine: KEF KC92 Subwoofer - White Gloss £2499.0
+      cand1: KEF KC92 Subwoofer - Black Gloss | £2499.0
+      cand2: Nearly New - KEF KC92 Subwoofer - Black Gloss | £1999.0
+      cand3: KEF R6 Meta Centre Speaker - Black Gloss | £1599.0
+   SO engine: KEF KC92 Subwoofer White Gloss £2499.0
+      cand0: KEF KC92 Subwoofer Black Gloss | £2499.0
+      cand2: KEF R7 Meta Floorstanding Speakers Black Gloss | £4199.0
+      cand3: KEF R7 Meta Floorstanding Speakers White Gloss | £4199.0
+R3 RS | Audiolab 9000CDT (Black) | £999.0 | ean:6974017846323
+   PT engine: Audiolab 9000CDT CD Transport - Black £999.0
+      cand1: Audiolab 9000CDT CD Transport - Silver | £999.0
+      cand2: Audiolab 9000N Streamer - Silver | £2499.0
+      cand3: Audiolab DC Block Direct Current Blocker - Black | £99.0
+   SO engine: Audiolab 9000CDT CD Transport Black £999.0
+      cand1: Audiolab 9000CDT CD Transport Silver | £999.0
+      cand2: Audiolab 9000P Power Amplifier | £1099.0
+      cand3: Audiolab 7000A Amplifier Bowers & Wilkins 607 3 Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x B&W 607 S3 (Black) Speakers (Pair) | £1419.0
+R4 RS | KEF S2 Floor Stands (Titanium Grey) | £425.0 | ean:0637203046759
+   PT engine: -- none --
+      cand0: KEF S2 Floor Stands - Carbon Black | £449.0
+      cand1: KEF S2 Floor Stands - Mineral White | £449.0
+      cand2: KEF LS60 Wireless Floorstanding Speaker System - Titanium Grey | £4999.0
+      cand3: KEF S-RF1 Floor Stands - White | £1149.0
+   SO engine: -- none --
+      cand0: KEF S3 Speaker Stands (Pair) Slate Grey | £699.0
+      cand1: KEF LS60 Wireless Speakers Titanium Grey | £4999.0
+      cand2: KEF S2 Speaker Stands (Pair) Black | £449.0
+      cand3: KEF S2 Speaker Stands (Pair) White | £449.0
+R5 RS | Sonos Five (X2) | £959.0 | ean:None
+   PT engine: -- none --
+      cand0: Sonos Five Premium Speaker - White | £549.0
+      cand1: Sonos Five Wireless Speaker - Pair - Black | £878.0
+      cand2: Sonos Five Premium Speaker - Black | £549.0
+      cand3: Sonos Five Wireless Speaker - Pair - White | £878.0
+   SO engine: -- none --
+      cand0: Sonos Five (Pair) 1 x Sonos Five (Black) Wireless Speaker * 1 x Sonos Five (Black) Wireless Speaker * | £949.0
+      cand1: Sonos Era 300 Stands Speaker Stands (x2) Black | £279.0
+      cand2: Sonos Era 300 Stands Speaker Stands (x2) White | £279.0
+      cand3: Sonos Era 100 Stands Speaker Stands (x2) Black | £269.0
+R6 RS | Technics SA-C600EB (Silver) | £719.0 | ean:5025232922512
+   PT engine: -- none --
+      cand0: Technics SL-1300G Grand Class Direct Drive Turntable - Silver | £2799.0
+      cand1: Technics SU-GX70 Streaming Integrated Amplifier - Silver | £999.0
+      cand2: Technics SU-R1000 Integrated Amplifier - Silver | £7199.0
+      cand3: Technics SL-1200GR2 Grand Class Direct Drive Turntable - Silver | £1599.0
+   SO engine: Technics SA-C600 CD/Streaming System Silver £719.0
+      cand1: Technics SA-C600 CD/Streaming System Sonus faber Lumina II Amator Bookshelf Speakers 1 x Technics SA-C600 (Black) CD/Streaming System 1 x Sonus Faber Lumina II Amator (Glossy Walnut) Speakers (Pair) | £1949.0
+      cand2: Technics SA-C600 CD/Streaming System KEF LS50 Meta Bookshelf Speakers 1 x Technics SA-C600 (Black) CD/Streaming System 1 x KEF LS50 Meta (Black) Loudspeakers (Pair) | £1849.0
+      cand3: Technics SA-C600 CD/Streaming System Bowers & Wilkins 607 S3 Bookshelf Speakers 1 x Technics SA-C600 (Black) CD/Streaming System 1 x B&W 607 S3 (Black) Speakers (Pair) | £1149.0
+R7 RS | KEF Q1 Meta (Satin Black) | £499.0 | ean:0637203219160
+   PT engine: KEF Q1 Meta Bookshelf Speakers - Black £499.0
+      cand1: KEF Q1 Meta Bookshelf Speakers - Walnut | £499.0
+      cand2: KEF Q Concerto Meta Bookshelf Speakers - Satin Black | £1099.0
+      cand3: KEF Reference 1 Meta Bookshelf Speakers - Satin Walnut / Silver | £8999.0
+   SO engine: KEF Q1 Meta Bookshelf Speakers Satin Black £499.0
+      cand0: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier KEF Q1 Meta Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x KEF Q1 Meta (Satin Black) Loudspeakers (Pair) | £1339.0
+      cand1: WiiM Amp Ultra Streaming Amplifier KEF Q1 Meta Bookshelf Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x KEF Q1 Meta (Satin Black) Loudspeakers (Pair) | £839.0
+      cand2: Marantz MCR 60n DAB CD/DAB/Streaming System KEF Q1 Meta Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x KEF Q1 Meta (Satin Black) Loudspeakers (Pair) | £1169.0
+      cand3: Marantz MODEL 70 Integrated Amplifier KEF Q1 Meta Bookshelf Speakers 1 x KEF Q1 Meta (Satin Black) Loudspeakers (Pair) 1 x Marantz MODEL 70 (Black) Amplifier / DAC | £1248.0
+R8 RS | Monitor Audio Platinum 200 3G (Piano Black) | £8999.0 | ean:5060565771703
+   PT engine: Monitor Audio Platinum 200 3G Floorstanding Speakers - Black Gloss £8999.0
+      cand1: Monitor Audio Platinum 200 3G Floorstanding Speakers - Piano Ebony | £8999.0
+      cand2: Monitor Audio Platinum 200 3G Floorstanding Speakers - Pure Satin White | £8999.0
+      cand3: Monitor Audio Platinum 100 3G Bookshelf Speakers - Piano Black | £4500.0
+   SO engine: -- none --
+      cand0: Monitor Audio Cinergy 200 On Wall Speaker (Single) | £3500.0
+      cand1: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1298.0
+      cand2: Monitor Audio BRB Wall Bracket | £30.0
+      cand3: 1 x Naim Uniti Nova (Black) Streaming System (Ex Speakers) 1 x Monitor Audio Studio 89 (Black) Speakers (Pair) | £5759.0
+R9 RS | Denon AVC-A10H (Silver) | £3949.0 | ean:4951035908433
+   PT engine: -- none --
+      cand0: Denon AVC-X4800H 9.4 Ch. 200W 8K AV Amplifier with HEOS Built-in - Silver | £1999.0
+      cand1: Denon AVC-X3900H 9.4 Ch. 105W 4K/8K Dolby Atmos AV Amplifier Powered by HEOS - Black | £1299.0
+      cand2: Denon PMA-900HNE Streaming Integrated Amplifier - Silver | £689.0
+      cand3: Denon AVC-X4800H 9.4 Ch. 200W 8K AV Amplifier with HEOS Built-in - Black | £1999.0
+   SO engine: -- none --
+      cand0: Denon AVC-X4800H AV Amplifier | £1999.0
+      cand1: Denon AVC-X3900H AV Amplifier | £1299.0
+      cand2: Denon AVC-X6800H AV Amplifier | £2799.0
+      cand3: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Wharfedale EVO 5.2 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x Wharfedale EVO5.2 (Black) Speakers (Pair) | £1219.0
+R10 RS | Denon PMA-3000NE (Black) | £2999.0 | ean:4951035908273
+   PT engine: Denon PMA-3000NE Integrated Amplifier - Black £2999.0
+      cand1: Denon PMA-3000NE Integrated Amplifier - Silver | £2999.0
+      cand2: Denon PMA-900HNE Streaming Integrated Amplifier - Silver | £689.0
+      cand3: Denon DP-3000NE Premium Direct Drive Turntable - Dark Wood | £1999.0
+   SO engine: -- none --
+      cand0: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Wharfedale EVO 5.2 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x Wharfedale EVO5.2 (Black) Speakers (Pair) | £1219.0
+      cand1: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Bowers & Wilkins 607 S3 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x B&W 607 S3 (Black) Speakers (Pair) | £989.0
+      cand2: Denon AVR-X2900H DAB AV Receiver | £899.0
+      cand3: Denon AVC-X4800H AV Amplifier | £1999.0
+R11 RS | Marantz Cinema 50 Series 2 (Silver) | £1849.0 | ean:4951035908808
+   PT engine: Marantz CINEMA 50 Series 2 11.4 Channel AV Receiver - Silver Gold £1849.0
+      cand1: Marantz CINEMA 70s SERIES 2 AV Receiver - Silver Gold | £950.0
+      cand2: Marantz CINEMA 50 Series 2 11.4 Channel AV Receiver - Black | £1849.0
+      cand3: Marantz CINEMA 70s SERIES 2 AV Receiver - Black | £950.0
+   SO engine: Marantz CINEMA 50 SERIES 2 AV Receiver Silver £1849.0
+      cand1: Marantz CINEMA 50 SERIES 2 AV Receiver Black | £1849.0
+      cand2: Marantz CINEMA 70s SERIES 2 Slimline AV Receiver Silver | £949.0
+      cand3: Marantz CINEMA 70s SERIES 2 Slimline AV Receiver Black | £949.0
+R12 RS | KEF LS60 Wireless (Carbon Black) | £4999.0 | ean:0637203050138
+   PT engine: KEF LS60 Wireless Floorstanding Speaker System - Carbon Black £4999.0
+      cand1: KEF LSX II Wireless Bookshelf Speaker System - Carbon Black | £1249.0
+      cand2: KEF LS60 Wireless Floorstanding Speaker System - Titanium Grey | £4999.0
+      cand3: KEF LS50 Wireless II Wireless Bookshelf Speaker System - Carbon Black | £2199.0
+   SO engine: KEF LS60 Wireless Speakers Carbon Black £4999.0
+      cand1: 1 x KEF XIO (Slate Black) Soundbar 1 x KEF KC62 (Carbon Black) Subwoofer 1 x KEF KW2 Wireless Receiver | £3499.0
+      cand2: KEF LS60 Wireless Speakers Mineral White | £4999.0
+      cand3: KEF LS60 Wireless Speakers Titanium Grey | £4999.0
+R13 RS | Sonos Amp (Black) | £699.0 | ean:8717755775702
+   PT engine: Sonos Amp Streaming Integrated Amplifier £699.0
+      cand1: Sonos Five Premium Speaker - White | £549.0
+      cand2: Sonos Roam 2 Ultra-Portable Smart Speaker - Black | £179.0
+      cand3: Sonos In-Wall Speakers by Sonance (Pair) | £699.0
+   SO engine: Sonos Amp Wireless Music Streamer / Amplifier £699.0
+      cand0: 1 x Sonos Amp (Black) Wireless Music Streamer / Amp * 1 x Sonos In-Ceiling Speaker - 6 Inch (Pair) | £999.0
+      cand1: Sonos Amp B&W CCM382 In Ceiling Speakers (Pair) 1 x Sonos Amp (Black) Wireless Music Streamer / Amp * 1 x B&W CCM382 (White) In-Ceiling Spkrs (Pair) | £1009.0
+      cand2: Sonos Amp B&W CCM684 In Ceiling Speakers (Pair) 1 x Sonos Amp (Black) Wireless Music Streamer / Amp * 1 x B&W CCM684 (White) Pair In-Ceiling Spkrs (Pair) | £1189.0
+      cand3: Sonos Amp KEF Q3 Meta Speakers 1 x Sonos Amp (Black) Wireless Music Streamer / Amp * 1 x KEF Q3 Meta (Satin Black) Loudspeakers (Pair) | £1159.0
+R14 RS | Denon PMA-900HNE (Black) | £689.0 | ean:4951035907573
+   PT engine: Denon PMA-900HNE Streaming Integrated Amplifier - Black £689.0
+      cand1: Denon PMA-900HNE Streaming Integrated Amplifier - Silver | £689.0
+      cand2: Denon PMA-3000NE Integrated Amplifier - Silver | £2999.0
+      cand3: Denon PMA-3000NE Integrated Amplifier - Black | £2999.0
+   SO engine: -- none --
+      cand0: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Wharfedale EVO 5.2 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x Wharfedale EVO5.2 (Black) Speakers (Pair) | £1219.0
+      cand1: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Bowers & Wilkins 607 S3 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x B&W 607 S3 (Black) Speakers (Pair) | £989.0
+      cand2: Denon AVR-X2900H DAB AV Receiver | £899.0
+      cand3: Denon AVC-X4800H AV Amplifier | £1999.0
+R15 RS | Monitor Audio Platinum 300 3G (Pure Satin White) | £11499.0 | ean:5060565771758
+   PT engine: Monitor Audio Platinum 300 3G Floorstanding Speakers - Pure Satin White £11500.0
+      cand1: Monitor Audio Platinum 100 3G Bookshelf Speakers - Pure Satin White | £4500.0
+      cand2: Monitor Audio Platinum C250 3G Centre Speaker - Pure Satin White | £3499.0
+      cand3: Monitor Audio Platinum 200 3G Floorstanding Speakers - Pure Satin White | £8999.0
+   SO engine: -- none --
+      cand0: Monitor Audio Silver 300 8G Floorstanding Speakers Satin White | £1999.0
+      cand1: Monitor Audio Gold 300 6G Floorstanding Speakers Satin White | £3999.0
+      cand2: Monitor Audio Bronze 300 5.1 AV System 2 x Monitor Audio Bronze On-Wall 7G (Black) Speaker (Single) 1 x Monitor Audio Bronze 300 7G (Black) Speakers (Pair) 1 x Monitor Audio Bronze Centre 7G (Black) Centre Speaker 1 x Monitor Audio Vestra W12 (Black) Subwoofer | £1999.0
+      cand3: Monitor Audio Cinergy 300 On Wall Speaker (Single) | £4000.0
+R16 RS | Monitor Audio W1M- E | £299.0 | ean:5060565774254
+   PT engine: Monitor Audio Creator W1M In-Wall Speaker £399.0
+      cand1: Monitor Audio Silver 100 8G Bookshelf Speakers - Satin White | £1499.0
+      cand2: Monitor Audio Gold 500 6G Floorstanding Speakers - White | £5499.0
+      cand3: Monitor Audio Creator W2M In-Wall Speaker | £600.0
+   SO engine: -- none --
+      cand0: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1298.0
+      cand1: Monitor Audio BRB Wall Bracket | £30.0
+      cand2: 1 x Naim Uniti Nova (Black) Streaming System (Ex Speakers) 1 x Monitor Audio Studio 89 (Black) Speakers (Pair) | £5759.0
+      cand3: Arcam A15+ Integrated Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Arcam A15+ Integrated Amplifier 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1529.0
+R17 RS | WiiM Amp Ultra (Silver) & DALI KUPID (Dark Walnut) | £699.0 | ean:None
+   PT engine: -- none --
+      cand0: WiiM Amp Ultra Streaming Integrated Amplifier - Silver | £549.0
+      cand1: WiiM Amp Ultra Streaming Integrated Amplifier - Space Grey | £549.0
+      cand2: WiiM Vibelink Amp Power Amplifier - Silver | £319.0
+      cand3: WiiM Ultra Streamer with DAC & Touchscreen - Silver | £369.0
+   SO engine: -- none --
+      cand0: 1 x WiiM Vibelink Amp (Space Grey) Amplifier 1 x DALI KUPID (Black Ash) Speakers (Pair) | £499.0
+      cand1: WiiM Amp Pro Streaming Amplifier DALI KUPID Speakers 1 x WiiM Amp Pro (Space Grey) Wireless Music Streamer / Amp 1 x DALI KUPID (Black Ash) Speakers (Pair) | £599.0
+      cand2: WiiM Amp Ultra Streaming Amplifier Ruark Audio Sabre-R Bookshelf Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x Ruark Audio Sabre-R (Fused Walnut) Loudspeakers (Pair) | £1079.0
+      cand3: WiiM Amp Ultra Streaming Amplifier DALI SONIK 1 Bookshelf Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x DALI SONIK 1 (Black Ash) Speakers (Pair) | £859.0
+R18 RS | Marantz Cinema 70s Series 2 (Black) | £949.0 | ean:4951035908853
+   PT engine: Marantz CINEMA 70s SERIES 2 AV Receiver - Black £950.0
+      cand0: Marantz CINEMA 70s SERIES 2 AV Receiver - Silver Gold | £950.0
+      cand2: Marantz CINEMA 70s 7.2 Channel AV Receiver - Black | £699.0
+      cand3: Marantz CINEMA 50 Series 2 11.4 Channel AV Receiver - Silver Gold | £1849.0
+   SO engine: Marantz CINEMA 70s SERIES 2 Slimline AV Receiver Black £949.0
+      cand1: Marantz CINEMA 70s SERIES 2 Slimline AV Receiver Silver | £949.0
+      cand2: Marantz CINEMA 50 SERIES 2 AV Receiver Black | £1849.0
+      cand3: Marantz CINEMA 50 SERIES 2 AV Receiver Silver | £1849.0
+R19 RS | Bluesound PULSE FLEX (2025) (Tan) | £299.0 | ean:0786357003351
+   PT engine: Bluesound PULSE FLEX (P130) Wireless All-In-One Music Streaming Speaker - Tan £279.0
+      cand1: Bluesound PULSE SOUNDBAR+ Dolby Atmos Soundbar - Black | £399.0
+      cand2: Bluesound PULSE 2i Premium Wireless Multi-Room Music Streaming Speaker - Black | £649.0
+      cand3: Bluesound PULSE 2i Premium Wireless Multi-Room Music Streaming Speaker - White | £649.0
+   SO engine: -- none --
+      cand0: Bluesound PULSE CINEMA + SUB + FLEX (Pair) 1 x Bluesound PULSE CINEMA (P530) (Black) Soundbar 1 x Bluesound PULSE SUB (2026) SW200 (Black) Subwoofer 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker | £2499.0
+      cand1: Bluesound PULSE CINEMA MINI + SUB + FLEX (Pair) 1 x Bluesound PULSE CINEMA MINI (P431) (Black) Soundbar 1 x Bluesound PULSE SUB (2026) SW200 (Black) Subwoofer 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker | £2149.0
+      cand2: Bluesound PULSE FLEX Hi-Res Wireless Speaker 2025 | £299.0
+      cand3: Bluesound Wall Mount PULSE FLEX (Single) Black | £59.0
+R20 RS | Bowers & Wilkins 607 S3 (Oak) | £599.0 | ean:0714346340804
+   PT engine: Bowers & Wilkins 607 S3 Bookshelf Speakers - Oak £599.0
+      cand0: Bowers & Wilkins 606 S3 5.1 Speaker Package (607 S3 Rears) - Oak | £1949.0
+      cand2: Bowers & Wilkins 607 S3 Bookshelf Speakers - White | £599.0
+      cand3: Bowers & Wilkins 603 S3 Floorstanding Speakers - Oak | £1849.0
+   SO engine: Bowers & Wilkins 607 S3 Bookshelf Speakers Oak £599.0
+      cand1: Technics SA-C600 CD/Streaming System Bowers & Wilkins 607 S3 Bookshelf Speakers 1 x Technics SA-C600 (Black) CD/Streaming System 1 x B&W 607 S3 (Black) Speakers (Pair) | £1149.0
+      cand2: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Bowers & Wilkins 607 S3 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x B&W 607 S3 (Black) Speakers (Pair) | £989.0
+      cand3: Audiolab 7000A Amplifier Bowers & Wilkins 607 3 Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x B&W 607 S3 (Black) Speakers (Pair) | £1419.0
+R21 RS | Monitor Audio Gold 300 6G (High Gloss Black) | £3999.0 | ean:5060565778900
+   PT engine: Monitor Audio Gold 300 6G Floorstanding Speakers - Black £3999.0
+      cand1: Monitor Audio Silver 300 8G Floorstanding Speakers - High Gloss Black | £1999.0
+      cand2: Monitor Audio Gold 300 6G Floorstanding Speakers - White | £3999.0
+      cand3: Monitor Audio Gold 300 6G Floorstanding Speakers - Wood | £3999.0
+   SO engine: Monitor Audio Gold 300 6G Floorstanding Speakers High Gloss Black £3999.0
+      cand1: Monitor Audio Gold On-Wall 6G Speaker (Single) High Gloss Black | £999.0
+      cand2: Monitor Audio Gold 50 6G Bookshelf Speakers High Gloss Black | £1699.0
+      cand3: Monitor Audio Gold 100 6G Bookshelf Speakers High Gloss Black | £2999.0
+R22 RS | Denon DCD-3000NE (Black) | £2199.0 | ean:4951035908556
+   PT engine: -- none --
+      cand0: Denon DP-3000NE Premium Direct Drive Turntable - Dark Wood | £1999.0
+      cand1: Denon DCD-900NE CD Player with Advanced AL32 Processing Plus & USB - Silver | £399.0
+      cand2: Denon DCD-900NE CD Player with Advanced AL32 Processing Plus & USB - Black | £399.0
+      cand3: Denon PMA-3000NE Integrated Amplifier - Silver | £2999.0
+   SO engine: -- none --
+      cand0: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Wharfedale EVO 5.2 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x Wharfedale EVO5.2 (Black) Speakers (Pair) | £1219.0
+      cand1: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Bowers & Wilkins 607 S3 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x B&W 607 S3 (Black) Speakers (Pair) | £989.0
+      cand2: Denon AVR-X2900H DAB AV Receiver | £899.0
+      cand3: Denon AVC-X4800H AV Amplifier | £1999.0
+R23 RS | Sonos Beam Gen 2 & Sub Mini (Black) | £789.0 | ean:None
+   PT engine: -- none --
+      cand0: Sonos Beam (Gen 2) Soundbar - White | £449.0
+      cand1: Sonos Beam (Gen 2) Soundbar - Black | £449.0
+      cand2: Sonos Sub Mini Wireless Subwoofer - White | £429.0
+      cand3: Sonos Beam Ultra 7.1.2-channel Dolby Atmos Soundbar - Black | £699.0
+   SO engine: 1 x Sonos Beam (Gen 2) (Black) Soundbar With Voice Control * 1 x Sonos Sub Mini (Black) Wireless Subwoofer * £708.0
+      cand0: Sonos Beam (Gen 2) + Sonos Era 100 (Pair) + Sonos Sub Mini 1 x Sonos Beam (Gen 2) (Black) Soundbar With Voice Control * 2 x Sonos Era 100 (Black) Wireless Speaker * 1 x Sonos Sub Mini (Black) Wireless Subwoofer * | £1149.0
+      cand1: Sonos Beam (Gen 2) + Sonos Sub Mini - Sonos Era 300 (Pair) 1 x Sonos Beam (Gen 2) (Black) Soundbar With Voice Control * 1 x Sonos Sub Mini (Black) Wireless Subwoofer * 2 x Sonos Era 300 (Black) Wireless Speaker * | £1669.0
+      cand2: Sonos Beam (Gen 2) + Sonos Era 100 SL (Pair) + Sonos Sub Mini 1 x Sonos Beam (Gen 2) (Black) Soundbar With Voice Control * 1 x Sonos Sub Mini (Black) Wireless Subwoofer * 1 x Sonos Era 100 SL (Black) Wireless Speaker * 1 x Sonos Era 100 SL (Black) Wireless Speaker * | £999.0
+R24 RS | KEF LSX II (Cotton White) | £1249.0 | ean:0637203052309
+   PT engine: KEF LSX II Wireless Bookshelf Speaker System - Cotton White £1249.0
+      cand1: KEF LSX II Wireless Bookshelf Speaker System - Amber Haze | £1249.0
+      cand2: KEF LSX II LT Wireless Bookshelf Speaker System - Stone White | £899.0
+      cand3: KEF LSX II Wireless Bookshelf Speaker System - Cobalt Blue | £999.0
+   SO engine: KEF LSX II Wireless Speakers Cotton White £1249.0
+      cand1: KEF C-Link Interspeaker Cable For LSX II LT (8m) | £50.0
+      cand2: KEF LSX II LT Wireless Speakers Graphite Grey | £899.0
+      cand3: KEF LSX II LT Wireless Speakers Sage Green | £899.0
+R25 RS | Audiolab 7000A & 7000CDT (Black) | £1349.0 | ean:None
+   PT engine: -- none --
+      cand0: Audiolab 7000A Integrated Amplifier - Silver | £1099.0
+      cand1: Audiolab 7000CDT CD Transport - Black | £549.0
+      cand2: Audiolab 7000A Integrated Amplifier - Black | £1099.0
+      cand3: Audiolab 7000CDT CD Transport - Silver | £549.0
+   SO engine: -- none --
+      cand0: Audiolab 7000A Amplifier Bowers & Wilkins 607 3 Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x B&W 607 S3 (Black) Speakers (Pair) | £1419.0
+      cand1: Audiolab 7000A Amplifier Bowers & Wilkins 606 3 Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x B&W 606 S3 (Black) Speakers (Pair) | £1519.0
+      cand2: Audiolab 7000A Amplifier KEF LS50 Meta Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x KEF LS50 Meta (Black) Loudspeakers (Pair) | £1989.0
+      cand3: Audiolab 7000A Amplifier KEF Q Concerto Meta Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) | £1789.0
+R26 RS | Monitor Audio Silver 300 (7G) (Ash) | £1099.0 | ean:5060565776586
+   PT engine: -- none --
+      cand0: Monitor Audio Silver 300 7G Floorstanding Speakers - Natural Walnut | £899.0
+      cand1: Monitor Audio Silver 300 7G Floorstanding Speakers - Black Gloss | £899.0
+      cand2: Monitor Audio Silver 300 8G Floorstanding Speakers - Walnut | £1999.0
+      cand3: Monitor Audio Bronze 300 7G Floorstanding Speakers - Black | £699.0
+   SO engine: -- none --
+      cand0: Monitor Audio Bronze 300 5.1 AV System 2 x Monitor Audio Bronze On-Wall 7G (Black) Speaker (Single) 1 x Monitor Audio Bronze 300 7G (Black) Speakers (Pair) 1 x Monitor Audio Bronze Centre 7G (Black) Centre Speaker 1 x Monitor Audio Vestra W12 (Black) Subwoofer | £1999.0
+      cand1: Monitor Audio Silver 300 8G Floorstanding Speakers High Gloss Black | £1999.0
+      cand2: Monitor Audio Silver 300 8G Floorstanding Speakers European Walnut | £1999.0
+      cand3: Monitor Audio Silver 300 8G Floorstanding Speakers Satin White | £1999.0
+R27 RS | Monitor Audio Silver 100 (7G) (Satin White) | £499.0 | ean:5060565776524
+   PT engine: -- none --
+      cand0: Monitor Audio Silver 100 8G Bookshelf Speakers - Satin White | £1499.0
+      cand1: Monitor Audio Silver 500 8G Floorstanding Speakers - Satin White | £2649.0
+      cand2: Monitor Audio Platinum 100 3G Bookshelf Speakers - Pure Satin White | £4500.0
+      cand3: Monitor Audio Silver AMS 8G Dolby Atmos Speakers - Satin White | £899.0
+   SO engine: -- none --
+      cand0: Monitor Audio Silver 100 8G Bookshelf Speakers Satin White | £1499.0
+      cand1: Monitor Audio Silver 100 8G Bookshelf Speakers European Walnut | £1499.0
+      cand2: Monitor Audio Silver 100 8G Bookshelf Speakers High Gloss Black | £1499.0
+      cand3: Monitor Audio Gold 100 6G Bookshelf Speakers Satin White | £2999.0
+R28 RS | Ruark Audio R710 (Charcoal) | £2199.0 | ean:5060637250549
+   PT engine: -- none --
+      cand0: Ruark Audio Sabre-R Bookshelf Speakers - Charcoal | £699.0
+      cand1: Ruark Audio Remote Control for R1 MK4, R1S & R2 MK4 | £14.0
+      cand2: Ruark Audio R1S Smart Radio - Mid Grey Lacquer with Walnut Grille | £299.0
+      cand3: Ruark Audio R2 Mk4 Smart Music System - Light Cream Lacquer with Ash Grille | £479.0
+   SO engine: Ruark Audio R710 CD Streaming System Charcoal £2199.0
+      cand1: Ruark Audio R710 CD Streaming System Bowers & Wilkins 606 S3 Bookshelf Speakers 1 x Ruark Audio R710 (Fused Walnut) CD/Streaming System (Ex Speakers) 1 x B&W 606 S3 (Black) Speakers (Pair) | £2609.0
+      cand2: Ruark Audio R710 CD Streaming System KEF Q7 Meta Floorstanding Speakers 1 x Ruark Audio R710 (Fused Walnut) CD/Streaming System (Ex Speakers) 1 x KEF Q7 Meta (Satin Black) Loudspeakers (Pair) | £3239.0
+      cand3: Ruark Audio R710 CD Streaming System Ruark Audio Talisman-R Floorstanding Speakers 1 x Ruark Audio R710 (Fused Walnut) CD/Streaming System (Ex Speakers) 1 x Ruark Audio Talisman-R (Fused Walnut) Loudspeakers (Pair) | £3698.0
+R29 RS | Bluesound NODE ICON N530 (Black) | £899.0 | ean:0786357003047
+   PT engine: -- none --
+      cand0: Bluesound NODE NANO Wireless Music Streamer - Black | £299.0
+      cand1: Bluesound PULSE SOUNDBAR+ Dolby Atmos Soundbar - Black | £399.0
+      cand2: Bluesound PULSE 2i Premium Wireless Multi-Room Music Streaming Speaker - Black | £649.0
+      cand3: Bluesound PULSE 2i Premium Wireless Multi-Room Music Streaming Speaker - White | £649.0
+   SO engine: Bluesound NODE ICON Hi-Res Wireless Music Streamer £899.0
+      cand1: Bluesound NODE NANO Hi-Res Wireless Music Streamer | £299.0
+      cand2: Bluesound NODE (2024) Hi-Res Wireless Music Streamer N132 | £499.0
+      cand3: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier DALI SONIK 5 Floorstanding Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x DALI SONIK 5 (Black Ash) Speakers (Pair) | £1539.0
+R30 RS | Audiolab 6000CDT (Black) | £399.0 | ean:5025941194484
+   PT engine: Audiolab 6000CDT CD Transport - Black £399.0
+      cand1: Audiolab 6000CDT CD Transport - Silver | £399.0
+      cand2: Audiolab 9000N Streamer - Silver | £2499.0
+      cand3: Audiolab DC Block Direct Current Blocker - Black | £99.0
+   SO engine: Audiolab 6000CDT CD Transport Black £399.0
+      cand1: Audiolab 6000CDT CD Transport Silver | £399.0
+      cand2: Audiolab 9000P Power Amplifier | £1099.0
+      cand3: Audiolab 7000A Amplifier Bowers & Wilkins 607 3 Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x B&W 607 S3 (Black) Speakers (Pair) | £1419.0
+R31 RS | Kef Q Concerto Meta 5.1 Speaker System (Black) | £2499.0 | ean:None
+   PT engine: -- none --
+      cand0: KEF Q Concerto Meta Bookshelf Speakers - Satin Black | £1099.0
+      cand1: KEF Q Concerto Meta Bookshelf Speakers - Walnut | £1099.0
+      cand2: KEF Q Concerto Meta Bookshelf Speakers - Satin White | £1099.0
+      cand3: KEF XIO 5.1.2-channel Dolby Atmos Wireless Soundbar - Slate Black | £1999.0
+   SO engine: -- none --
+      cand0: Marantz MCR 60n DAB CD/DAB/Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) | £1709.0
+      cand1: Technics SA-C600 CD/Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x Technics SA-C600 (Black) CD/Streaming System 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) | £1589.0
+      cand2: Ruark Audio R610 Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) | £2069.0
+      cand3: Ruark Audio R710 CD Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x Ruark Audio R710 (Fused Walnut) CD/Streaming System (Ex Speakers) 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) | £2969.0
+R32 RS | KEF LSX II (Mineral White) | £1199.0 | ean:0637203047824
+   PT engine: -- none --
+      cand0: KEF LSX II Wireless Bookshelf Speaker System - Cotton White | £1249.0
+      cand1: KEF LSX II Wireless Bookshelf Speaker System - Amber Haze | £1249.0
+      cand2: KEF LSX II LT Wireless Bookshelf Speaker System - Stone White | £899.0
+      cand3: KEF LS50 Wireless II Wireless Bookshelf Speaker System - Mineral White | £2199.0
+   SO engine: -- none --
+      cand0: KEF S1 Floor Stand for LSX II (Pair) Mineral White | £325.0
+      cand1: KEF C-Link Interspeaker Cable For LSX II LT (8m) | £50.0
+      cand2: KEF LSX II LT Wireless Speakers Graphite Grey | £899.0
+      cand3: KEF LSX II LT Wireless Speakers Sage Green | £899.0
+R33 RS | Ruark Audio MR1 Mk3 & RS1 (Charcoal) Black | £739.0 | ean:None
+   PT engine: -- none --
+      cand0: Ruark Audio Sabre-R Bookshelf Speakers - Charcoal | £699.0
+      cand1: Ruark Audio Remote Control for R1 MK4, R1S & R2 MK4 | £14.0
+      cand2: Ruark Audio R1S Smart Radio - Mid Grey Lacquer with Walnut Grille | £299.0
+      cand3: Ruark Audio R2 Mk4 Smart Music System - Light Cream Lacquer with Ash Grille | £479.0
+   SO engine: -- none --
+      cand0: Ruark Audio MR1 Mk3 Active Speakers Ruark Audio RS1 Subwoofer 1 x Ruark Audio MR1 Mk3 (Rich Walnut) Desktop Speaker System 1 x Ruark Audio RS1 (Rich Walnut) Subwoofer | £719.0
+      cand1: Ruark Audio MR1 Mk3 Desktop Speaker System Charcoal | £399.0
+      cand2: Ruark Audio MR1 Mk3 Desktop Speaker System Pro-Ject T1 EVO Turntable 1 x Project T1 EVO (Black) Turntable 1 x Ruark Audio MR1 Mk3 (Rich Walnut) Desktop Speaker System | £758.0
+      cand3: Ruark Audio RS1 Subwoofer Charcoal | £349.0
+R34 RS | KEF S2 Floor Stands (Carbon Black) | £449.0 | ean:0637203046735
+   PT engine: KEF S2 Floor Stands - Carbon Black £449.0
+      cand1: KEF S2 Floor Stands - Mineral White | £449.0
+      cand2: KEF S-RF1 Floor Stands - White | £1149.0
+      cand3: KEF S3 Floor Stands - Indigo Blue | £699.0
+   SO engine: KEF S2 Speaker Stands (Pair) Black £449.0
+      cand1: KEF S2 Speaker Stands (Pair) White | £449.0
+      cand2: KEF S-LUXE Speaker Stands | £799.0
+      cand3: 1 x KEF XIO (Slate Black) Soundbar 1 x KEF KC62 (Carbon Black) Subwoofer 1 x KEF KW2 Wireless Receiver | £3499.0
+R35 RS | Naim Mu-so Qb 2nd Generation | £699.0 | ean:5060332107872
+   PT engine: -- none --
+      cand0: Naim Mu-so 2nd Generation Speaker Grille - Terracotta | £69.0
+      cand1: Naim Mu-so 2nd Generation Speaker Grille - Olive | £69.0
+      cand2: Naim Mu-so 2nd Generation Speaker Grille - Peacock | £49.0
+      cand3: Naim Mu-so 2nd Generation Wireless Music System - Dark Grey | £899.0
+   SO engine: -- none --
+      cand0: Naim Mu-so 2nd Generation Wireless Speaker | £899.0
+      cand1: Naim Mu-so Grille (2nd Generation) Terracotta | £69.0
+      cand2: Naim Mu-so Grille (2nd Generation) Olive | £69.0
+      cand3: Naim Mu-so Grille (2nd Generation) Peacock | £69.0
+R36 RS | Yamaha RX-A6A (Black) | £1999.0 | ean:4957812661577
+   PT engine: Yamaha RX-A6A AV Receiver - Black £1999.0
+      cand1: Yamaha RX-A4A AV Receiver - Black | £1299.0
+      cand2: KEF KW1 RX Wireless Subwoofer Receiver | £89.0
+      cand3: Yamaha R-N600A Network Receiver - Silver | £619.0
+   SO engine: Yamaha RX-A6A AV Receiver £1999.0
+      cand1: Yamaha RX-A2A AV Receiver | £749.0
+      cand2: Yamaha RX-A8A AV Receiver | £3289.0
+      cand3: Yamaha RX-A4A AV Receiver | £1299.0
+R37 RS | Ruark Audio R2 Mk4 (Light Cream) | £479.0 | ean:5060637250150
+   PT engine: Ruark Audio R2 Mk4 Smart Music System - Light Cream Lacquer with Ash Grille £479.0
+      cand0: Ruark Audio R2 Mk4 Smart Music System - Espresso Lacquer with Walnut Grille | £479.0
+      cand2: Ruark Audio Remote Control for R1 MK4, R1S & R2 MK4 | £14.0
+      cand3: Ruark Audio R1S Smart Radio - Mid Grey Lacquer with Walnut Grille | £299.0
+   SO engine: Ruark Audio R2 MK4 Wireless Speaker Light Cream £479.0
+      cand1: Ruark Audio R2 MK4 Wireless Speaker Espresso | £479.0
+      cand2: Ruark Audio R1S Smart Radio Light Cream | £299.0
+      cand3: Ruark Audio R610 Streaming System Bowers & Wilkins 603 S3 Bookshelf Speakers 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) 1 x B&W 603 S3 (Black) Speakers (Pair) | £2829.0
+R38 RS | Sonos Beam Gen 2 & Ace Ultra (White) | £799.0 | ean:None
+   PT engine: -- none --
+      cand0: Sonos Beam (Gen 2) Soundbar - White | £449.0
+      cand1: Sonos Beam Ultra 7.1.2-channel Dolby Atmos Soundbar - Black | £699.0
+      cand2: Sonos Beam Ultra 7.1.2-channel Dolby Atmos Soundbar - White | £699.0
+      cand3: Sonos Beam (Gen 2) Soundbar - Black | £449.0
+   SO engine: -- none --
+      cand0: Sonos Beam Ultra + Sonos Sub 4 + Sonos Era 300 (Pair) 1 x Sonos Beam Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub 4 (Black) Wireless Subwoofer * 2 x Sonos Era 300 (Black) Wireless Speaker * | £2387.0
+      cand1: 1 x Sonos Beam (Gen 2) (Black) Soundbar With Voice Control * 1 x Sonos Sub 4 (Black) Wireless Subwoofer * | £1119.0
+      cand2: Sonos Arc Ultra + Sub 4 + Ace + Era 300 (Pair) 1 x Sonos Ace (Black) Wireless Over-Ear Headphones 1 x Sonos Arc Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub 4 (Black) Wireless Subwoofer * 2 x Sonos Era 300 (Black) Wireless Speaker * | £2699.0
+      cand3: Sonos Beam Ultra + Sonos Sub Mini + Sonos Era 100 (Pair) 1 x Sonos Beam Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub Mini (Black) Wireless Subwoofer * 2 x Sonos Era 100 (Black) Wireless Speaker * | £1446.0
+R39 RS | KEF S1 Floor Stand (Red) | £319.0 | ean:0637203048975
+   PT engine: -- none --
+      cand0: KEF S-RF1 Floor Stands - White | £1149.0
+      cand1: KEF S3 Floor Stands - Indigo Blue | £699.0
+      cand2: KEF S2 Floor Stands - Carbon Black | £449.0
+      cand3: Monitor Audio Radius Floor Stand 4G - Satin Black | £249.0
+   SO engine: -- none --
+      cand0: KEF S1 Floor Stand for LSX II (Pair) Grey | £325.0
+      cand1: KEF S1 Floor Stand for LSX II (Pair) Mineral White | £325.0
+      cand2: Monitor Audio Radius Floor Stand 4G Speaker Stands Black | £299.0
+      cand3: Monitor Audio Radius Floor Stand 4G Speaker Stands White | £299.0
+R40 RS | Technics SC-CX700B (Terracotta) | £1999.0 | ean:5025232962433
+   PT engine: -- none --
+      cand0: Technics SL-40CBT Bluetooth Direct Drive Turntable - Terracotta | £679.0
+      cand1: Naim Mu-so 2nd Generation Speaker Grille - Terracotta | £69.0
+      cand2: Technics SL-1300G Grand Class Direct Drive Turntable - Silver | £2799.0
+      cand3: Technics SL-1300G Grand Class Direct Drive Turntable - Black | £2799.0
+   SO engine: -- none --
+      cand0: Technics SL-40CBT Direct Drive Bluetooth Turntable Terracotta Brown | £679.0
+      cand1: Technics SL-1210GR2 Direct Drive Turntable | £1599.0
+      cand2: Technics SA-C600 CD/Streaming System Sonus faber Lumina II Amator Bookshelf Speakers 1 x Technics SA-C600 (Black) CD/Streaming System 1 x Sonus Faber Lumina II Amator (Glossy Walnut) Speakers (Pair) | £1949.0
+      cand3: Technics SA-C600 CD/Streaming System KEF LS50 Meta Bookshelf Speakers 1 x Technics SA-C600 (Black) CD/Streaming System 1 x KEF LS50 Meta (Black) Loudspeakers (Pair) | £1849.0
+R41 RS | Bluesound PULSE CINEMA | £1249.0 | ean:0786357003238
+   PT engine: -- none --
+      cand0: Bluesound PULSE SOUNDBAR+ Dolby Atmos Soundbar - Black | £399.0
+      cand1: Bluesound PULSE 2i Premium Wireless Multi-Room Music Streaming Speaker - Black | £649.0
+      cand2: Bluesound PULSE 2i Premium Wireless Multi-Room Music Streaming Speaker - White | £649.0
+      cand3: Bluesound PULSE FLEX (P130) Wireless All-In-One Music Streaming Speaker - Tan | £279.0
+   SO engine: Bluesound PULSE CINEMA Soundbar £1249.0
+      cand0: Bluesound PULSE CINEMA + SUB + FLEX (Pair) 1 x Bluesound PULSE CINEMA (P530) (Black) Soundbar 1 x Bluesound PULSE SUB (2026) SW200 (Black) Subwoofer 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker | £2499.0
+      cand1: Bluesound PULSE CINEMA + SUB + MINI2i (Pair) 1 x Bluesound PULSE CINEMA (P530) (Black) Soundbar 1 x Bluesound PULSE SUB (2026) SW200 (Black) Subwoofer 1 x Bluesound PULSE M (P230) (Black) Hi-Res Wireless Speaker 1 x Bluesound PULSE M (P230) (Black) Hi-Res Wireless Speaker | £2799.0
+      cand3: 1 x Bluesound PULSE CINEMA (P530) (Black) Soundbar 1 x Bluesound PULSE SUB (2026) SW200 (Black) Subwoofer | £1949.0
+R42 RS | Marantz SACD 30n (Silver/Gold) | £2799.0 | ean:4951035074480
+   PT engine: Marantz SACD 30n Streaming SACD Player - Silver Gold £2799.0
+      cand1: Marantz STEREO 70s 2.2 Channel Stereo Receiver - Silver Gold | £789.0
+      cand2: Marantz SACD 30n Streaming SACD Player - Black | £2799.0
+      cand3: Marantz CINEMA 70s SERIES 2 AV Receiver - Silver Gold | £950.0
+   SO engine: -- none --
+      cand0: Marantz MODEL 70 Integrated Amplifier Silver | £749.0
+      cand1: Marantz CINEMA 50 SERIES 2 AV Receiver Silver | £1849.0
+      cand2: Marantz MCR 60n DAB CD/DAB/Streaming System Champagne Gold | £799.0
+      cand3: Marantz CINEMA 40 AV Amplifier Silver | £2399.0
+R43 RS | Denon DRA-900H (Silver) | £799.0 | ean:4951035908198
+   PT engine: -- none --
+      cand0: Denon PMA-900HNE Streaming Integrated Amplifier - Silver | £689.0
+      cand1: Denon DCD-900NE CD Player with Advanced AL32 Processing Plus & USB - Silver | £399.0
+      cand2: Denon AVC-X4800H 9.4 Ch. 200W 8K AV Amplifier with HEOS Built-in - Silver | £1999.0
+      cand3: Denon PMA-3000NE Integrated Amplifier - Silver | £2999.0
+   SO engine: -- none --
+      cand0: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Wharfedale EVO 5.2 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x Wharfedale EVO5.2 (Black) Speakers (Pair) | £1219.0
+      cand1: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Bowers & Wilkins 607 S3 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x B&W 607 S3 (Black) Speakers (Pair) | £989.0
+      cand2: Denon AVR-X2900H DAB AV Receiver | £899.0
+      cand3: Denon AVC-X4800H AV Amplifier | £1999.0
+R44 RS | Bowers & Wilkins Px8 S2 (Warm Stone) | £629.0 | ean:0714346347728
+   PT engine: Bowers & Wilkins Px8 S2 Over-Ear Noise-Cancelling Wireless Headphones - Warm Stone £629.0
+      cand1: Bowers & Wilkins Px8 S2 Over-ear Wireless ANC Headphones - Onyx Black | £629.0
+      cand2: Bowers & Wilkins Px8 S2 Over-ear Wireless ANC Headphones - McLaren Edition | £729.0
+      cand3: Bowers & Wilkins CWM7.3 S2 In-wall Speaker (Single) | £1799.0
+   SO engine: Bowers & Wilkins Px8 S2 Wireless Noise Cancelling Headphones Warm Stone £629.0
+      cand1: Bowers & Wilkins Px8 S2 McLaren Edition Wireless Noise Cancelling Headphones | £729.0
+      cand2: Bowers & Wilkins Px8 S2 Wireless Noise Cancelling Headphones Onyx Black | £629.0
+      cand3: Bowers & Wilkins Px8 S2 Wireless Noise Cancelling Headphones Midnight Blue | £629.0
+R45 RS | Marantz Model 60n (Black) | £1399.0 | ean:4951035908587
+   PT engine: Marantz MODEL 60n Streaming Integrated Amplifier - Black £1399.0
+      cand1: Marantz MODEL 60n Streaming Integrated Amplifier - Silver Gold | £1399.0
+      cand2: Marantz MCR 60n DAB Compact All-in-One Hi-Fi System - Champagne | £799.0
+      cand3: Marantz MODEL 40n Streaming Integrated Amplifier - Black | £1999.0
+   SO engine: -- none --
+      cand0: Marantz MCR 60n DAB CD/DAB/Streaming System Q Acoustics 5010 Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x Q Acoustics 5010 (Satin Black) Speakers (Pair) | £1099.0
+      cand1: Marantz MCR 60n DAB CD/DAB/Streaming System Bowers & Wilkins 706 S3 Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x B&W 706 S3 (Gloss Black) Speakers (Pair) | £2299.0
+      cand2: Marantz MCR 60n DAB CD/DAB/Streaming System KEF LS50 Meta Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x KEF LS50 Meta (Black) Loudspeakers (Pair) | £1889.0
+      cand3: Marantz MODEL 70 Integrated Amplifier Wharfedale EVO 5.2 Bookshelf Speakers 1 x Wharfedale EVO5.2 (Black) Speakers (Pair) 1 x Marantz MODEL 70 (Black) Amplifier / DAC | £1498.0
+R46 RS | Bowers & Wilkins 705 S3 Signature (Datuk Gloss) | £3499.0 | ean:0714346339914
+   PT engine: Bowers & Wilkins 705 S3 Signature Bookshelf Speakers - Datuk Gloss £3499.0
+      cand1: Bowers & Wilkins 702 S3 Signature Floorstanding Speakers - Datuk Gloss | £7299.0
+      cand2: Bowers & Wilkins HTM71 S3 Signature Centre Speaker - Datuk Gloss | £2299.0
+      cand3: Bowers & Wilkins 705 S3 Bookshelf Speakers - Black Gloss | £2799.0
+   SO engine: Bowers & Wilkins 705 S3 Signature Bookshelf Speakers Datuk Gloss £3499.0
+      cand1: Bowers & Wilkins 702 S3 Signature Floorstanding Speakers Datuk Gloss | £7299.0
+      cand2: Bowers & Wilkins HTM71 S3 Signature Centre Speaker Datuk Gloss | £2299.0
+      cand3: Bowers & Wilkins 705 S3 Bookshelf Speakers Gloss Black | £2799.0
+R47 RS | Monitor Audio Silver 200 (7G) (Ash) | £749.0 | ean:5060565776531
+   PT engine: -- none --
+      cand0: Monitor Audio Silver 200 7G Floorstanding Speakers - Natural Walnut | £749.0
+      cand1: Monitor Audio Silver 200 7G Floorstanding Speakers - Black Oak | £749.0
+      cand2: Monitor Audio Silver 200 7G Floorstanding Speakers - Black Gloss | £749.0
+      cand3: Monitor Audio Silver 300 7G Floorstanding Speakers - Natural Walnut | £899.0
+   SO engine: -- none --
+      cand0: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1298.0
+      cand1: Arcam A15+ Integrated Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Arcam A15+ Integrated Amplifier 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1529.0
+      cand2: WiiM Amp Streaming Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) 1 x WiiM Amp (Space Grey) Wireless Music Streamer / Amp | £739.0
+      cand3: Arcam A5+ Integrated Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Arcam A5+ Integrated Amplifier 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1129.0
+R48 RS | Monitor Audio Vestra W15 (Matte Black) | £719.0 | ean:5060565775152
+   PT engine: Monitor Audio Vestra W15 Subwoofer - Black £889.0
+      cand1: Monitor Audio Vestra W15 Subwoofer - White | £889.0
+      cand2: Monitor Audio Vestra W12 Subwoofer - Black | £599.0
+      cand3: Monitor Audio Vestra W10 Subwoofer - Black | £479.0
+   SO engine: -- none --
+      cand0: Monitor Audio Bronze 300 5.1 AV System 2 x Monitor Audio Bronze On-Wall 7G (Black) Speaker (Single) 1 x Monitor Audio Bronze 300 7G (Black) Speakers (Pair) 1 x Monitor Audio Bronze Centre 7G (Black) Centre Speaker 1 x Monitor Audio Vestra W12 (Black) Subwoofer | £1999.0
+      cand1: Monitor Audio Bronze 50 5.1 AV System 2 x Monitor Audio Bronze On-Wall 7G (Black) Speaker (Single) 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) 1 x Monitor Audio Bronze Centre 7G (Black) Centre Speaker 1 x Monitor Audio Vestra W10 (Black) Subwoofer | £1499.0
+      cand2: Monitor Audio Vestra W12 Subwoofer Black | £599.0
+      cand3: Monitor Audio Vestra W12 Subwoofer White | £599.0
+R49 RS | Monitor Audio Studio 89 Stand (White) | £499.0 | ean:5061070620487
+   PT engine: Monitor Audio Studio 89 Stands - White £499.0
+      cand1: Monitor Audio Studio 89 Bookshelf Speakers - White | £1999.0
+      cand2: Monitor Audio Studio 89 Bookshelf Speakers - Black | £1999.0
+      cand3: Monitor Audio Studio 89 Stands - Black | £499.0
+   SO engine: -- none --
+      cand0: 1 x Naim Uniti Nova (Black) Streaming System (Ex Speakers) 1 x Monitor Audio Studio 89 (Black) Speakers (Pair) | £5759.0
+      cand1: 1 x Naim Uniti Atom HDMI (Black) Streaming System (Ex Speakers) 1 x Monitor Audio Studio 89 (Black) Speakers (Pair) | £3718.0
+      cand2: Audiolab 6000A Amplifier MK II Monitor Audio Studio 89 Speakers 1 x Monitor Audio Studio 89 (Black) Speakers (Pair) 1 x Audiolab 6000A MKII (Black) Stereo Amplifier | £2019.0
+      cand3: Monitor Audio Studio 89 Bookshelf Speakers | £1999.0
+R50 RS | Bowers & Wilkins 606 S3 (White) | £699.0 | ean:0714346340750
+   PT engine: Bowers & Wilkins 606 S3 Bookshelf Speakers - White £699.0
+      cand0: Bowers & Wilkins 606 S3 5.1 Speaker Package (607 S3 Rears) - White | £1949.0
+      cand2: Bowers & Wilkins 606 S3 5.1 Speaker Package (607 S3 Rears) - Oak | £1949.0
+      cand3: Bowers & Wilkins 606 S3 Bookshelf Speakers - Oak | £699.0
+   SO engine: Bowers & Wilkins 606 S3 Bookshelf Speakers White £699.0
+      cand0: Ruark Audio R710 CD Streaming System Bowers & Wilkins 606 S3 Bookshelf Speakers 1 x Ruark Audio R710 (Fused Walnut) CD/Streaming System (Ex Speakers) 1 x B&W 606 S3 (Black) Speakers (Pair) | £2609.0
+      cand1: Technics SA-C600 CD/Streaming System Bowers & Wilkins 606 S3 Bookshelf Speakers 1 x Technics SA-C600 (Black) CD/Streaming System 1 x B&W 606 S3 (Black) Speakers (Pair) | £1259.0
+      cand2: Ruark Audio R610 Streaming System Bowers & Wilkins 606 S3 Bookshelf Speakers 1 x B&W 606 S3 (Black) Speakers (Pair) 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) | £1709.0
+      cand3: Audiolab 7000A Amplifier Bowers & Wilkins 606 3 Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x B&W 606 S3 (Black) Speakers (Pair) | £1519.0
+R51 RS | Sonos Beam Wall Mount (Black) | £49.0 | ean:8717755774125
+   PT engine: Sonos Beam Wall Mount £59.0
+      cand1: Sonos Beam Ultra Wall Mount | £69.0
+      cand2: Sonos Beam Wall Mount - White | £49.0
+      cand3: Sonos Arc Ultra Wall Mount | £69.0
+   SO engine: Sonos Beam Wall Mount Wall Mount Kit Black £59.0
+      cand0: Sonos Beam Ultra Wall Mount Wall Mount Kit | £69.0
+      cand2: Sonos Beam Wall Mount Wall Mount Kit White | £59.0
+      cand3: Sonos Ray Wall Mount Wall Mount Kit | £39.0
+R52 RS | Monitor Audio Silver C250 (7G) (Gloss Black) | £399.0 | ean:5060565776708
+   PT engine: -- none --
+      cand0: Monitor Audio Silver 200 7G Floorstanding Speakers - Black Gloss | £749.0
+      cand1: Monitor Audio Silver 300 7G Floorstanding Speakers - Black Gloss | £899.0
+      cand2: Monitor Audio Silver On-Wall 8G Speaker - High Gloss Black | £449.0
+      cand3: Monitor Audio Silver 100 8G Bookshelf Speakers - High Gloss Black | £1499.0
+   SO engine: -- none --
+      cand0: Monitor Audio Silver 100 8G Bookshelf Speakers High Gloss Black | £1499.0
+      cand1: Monitor Audio Silver 50 8G Bookshelf Speakers High Gloss Black | £799.0
+      cand2: Monitor Audio Gold C250 6G Centre Speaker High Gloss Black | £1699.0
+      cand3: Monitor Audio Silver 300 8G Floorstanding Speakers High Gloss Black | £1999.0
+R53 RS | Denon DCD-900NE (Black) | £399.0 | ean:4951035907603
+   PT engine: Denon DCD-900NE CD Player with Advanced AL32 Processing Plus & USB - Black £399.0
+      cand1: Denon DCD-900NE CD Player with Advanced AL32 Processing Plus & USB - Silver | £399.0
+      cand2: Denon AVC-X3900H 9.4 Ch. 105W 4K/8K Dolby Atmos AV Amplifier Powered by HEOS - Black | £1299.0
+      cand3: Denon Home 600 Wireless Smart Speaker Powered by HEOS with Dolby Atmos Music (PAIR) - Stone | £1079.0
+   SO engine: -- none --
+      cand0: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Wharfedale EVO 5.2 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x Wharfedale EVO5.2 (Black) Speakers (Pair) | £1219.0
+      cand1: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Bowers & Wilkins 607 S3 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x B&W 607 S3 (Black) Speakers (Pair) | £989.0
+      cand2: Denon AVR-X2900H DAB AV Receiver | £899.0
+      cand3: Denon AVC-X4800H AV Amplifier | £1999.0
+R54 RS | Monitor Audio Silver 300 (8G) (High Gloss Black) | £1999.0 | ean:5061070620876
+   PT engine: Monitor Audio Silver 300 8G Floorstanding Speakers - High Gloss Black £1999.0
+      cand1: Monitor Audio Silver On-Wall 8G Speaker - High Gloss Black | £449.0
+      cand2: Monitor Audio Silver 100 8G Bookshelf Speakers - High Gloss Black | £1499.0
+      cand3: Monitor Audio Silver 50 8G Bookshelf Speakers - High Gloss Black | £799.0
+   SO engine: Monitor Audio Silver 300 8G Floorstanding Speakers High Gloss Black £1999.0
+      cand1: Monitor Audio Silver 100 8G Bookshelf Speakers High Gloss Black | £1499.0
+      cand2: Monitor Audio Silver 50 8G Bookshelf Speakers High Gloss Black | £799.0
+      cand3: Monitor Audio Silver On-Wall 8G On-Wall Speaker High Gloss Black | £449.0
+R55 RS | Audiolab 9000P (Black) | £1099.0 | ean:6976522466584
+   PT engine: Audiolab 9000P Power Amplifier - Black £1099.0
+      cand1: Audiolab 9000P Power Amplifier - Silver | £1099.0
+      cand2: Audiolab 9000N Streamer - Silver | £2499.0
+      cand3: Audiolab DC Block Direct Current Blocker - Black | £99.0
+   SO engine: Audiolab 9000P Power Amplifier £1099.0
+      cand1: Audiolab 7000A Amplifier Bowers & Wilkins 607 3 Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x B&W 607 S3 (Black) Speakers (Pair) | £1419.0
+      cand2: Audiolab 7000A Amplifier Bowers & Wilkins 606 3 Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x B&W 606 S3 (Black) Speakers (Pair) | £1519.0
+      cand3: Audiolab 6000A MKII Integrated Amplifier DALI SONIK 5 Floorstanding Speakers 1 x Audiolab 6000A MKII (Black) Stereo Amplifier 1 x DALI SONIK 5 (Black Ash) Speakers (Pair) | £1339.0
+R56 RS | Denon Home 400 (Charcoal) | £449.0 | ean:0747192145941
+   PT engine: Denon Home 400 Wireless Smart Speaker Powered by HEOS with Dolby Atmos Music - Charcoal £449.0
+      cand1: Denon Home 400 Wireless Smart Speaker Powered by HEOS with Dolby Atmos Music (PAIR) - Charcoal | £799.0
+      cand2: Denon Home 600 Wireless Smart Speaker Powered by HEOS with Dolby Atmos Music - Charcoal | £599.0
+      cand3: Denon Home 600 Wireless Smart Speaker Powered by HEOS with Dolby Atmos Music (PAIR) - Charcoal | £1079.0
+   SO engine: -- none --
+      cand0: Bluesound PULSE CINEMA + SUB + FLEX (Pair) 1 x Bluesound PULSE CINEMA (P530) (Black) Soundbar 1 x Bluesound PULSE SUB (2026) SW200 (Black) Subwoofer 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker | £2499.0
+      cand1: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Wharfedale EVO 5.2 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x Wharfedale EVO5.2 (Black) Speakers (Pair) | £1219.0
+      cand2: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Bowers & Wilkins 607 S3 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x B&W 607 S3 (Black) Speakers (Pair) | £989.0
+      cand3: Denon AVR-X2900H DAB AV Receiver | £899.0
+R57 RS | Sonos Beam Ultra (Black) | £699.0 | ean:8720862506466
+   PT engine: Sonos Beam Ultra 7.1.2-channel Dolby Atmos Soundbar - Black £699.0
+      cand1: Sonos Beam Ultra Wall Mount | £69.0
+      cand2: Sonos Beam Ultra 7.1.2-channel Dolby Atmos Soundbar - White | £699.0
+      cand3: Sonos Roam 2 Ultra-Portable Smart Speaker - Black | £179.0
+   SO engine: -- none --
+      cand0: Sonos Beam Ultra + Sonos Sub 4 + Sonos Era 300 (Pair) 1 x Sonos Beam Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub 4 (Black) Wireless Subwoofer * 2 x Sonos Era 300 (Black) Wireless Speaker * | £2387.0
+      cand1: 1 x Sonos Beam Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub 4 (Black) Wireless Subwoofer * | £1398.0
+      cand2: Sonos Beam Ultra Wall Mount Wall Mount Kit | £69.0
+      cand3: Sonos Beam Ultra + Sonos Sub Mini + Sonos Era 100 (Pair) 1 x Sonos Beam Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub Mini (Black) Wireless Subwoofer * 2 x Sonos Era 100 (Black) Wireless Speaker * | £1446.0
+R58 RS | Marantz Cinema 50 (Black) | £1499.0 | ean:4951035907122
+   PT engine: -- none --
+      cand0: Marantz CINEMA 50 Series 2 11.4 Channel AV Receiver - Silver Gold | £1849.0
+      cand1: Marantz CINEMA 50 Series 2 11.4 Channel AV Receiver - Black | £1849.0
+      cand2: Marantz CINEMA 70s 7.2 Channel AV Receiver - Black | £699.0
+      cand3: Marantz CINEMA 70s SERIES 2 AV Receiver - Silver Gold | £950.0
+   SO engine: -- none --
+      cand0: Marantz CINEMA 50 SERIES 2 AV Receiver Black | £1849.0
+      cand1: Marantz CINEMA 50 SERIES 2 AV Receiver Silver | £1849.0
+      cand2: Marantz MCR 60n DAB CD/DAB/Streaming System Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1129.0
+      cand3: Marantz MODEL 70 Integrated Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) 1 x Marantz MODEL 70 (Black) Amplifier / DAC | £1148.0
+R59 RS | Arcam A5 (Black) | £549.0 | ean:1200130004186
+   PT engine: -- none --
+      cand0: Arcam Radia R25 Bookshelf Speakers - Black | £2599.0
+      cand1: Arcam Radia ST25 Streamer - Black | £1499.0
+      cand2: Naim NAC A5 Terminated Speaker Cable (Pair) - 4m | £279.0
+      cand3: Arcam CD5 CD Player - Black | £699.0
+   SO engine: -- none --
+      cand0: Arcam A5+ Integrated Amplifier | £749.0
+      cand1: Arcam A5+ Integrated Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Arcam A5+ Integrated Amplifier 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1129.0
+      cand2: Arcam A5+ Integrated Amplifier DALI SONIK 3 Bookshelf Speakers 1 x Arcam A5+ Integrated Amplifier 1 x DALI SONIK 3 (Black Ash) Speakers (Pair) | £1219.0
+      cand3: Arcam A5+ Integrated Amplifier DALI SONIK 1 Bookshelf Speakers 1 x Arcam A5+ Integrated Amplifier 1 x DALI SONIK 1 (Black Ash) Speakers (Pair) | £1079.0
+R60 RS | Bowers & Wilkins 703 S3 5.1 (Gloss Black) | £7499.0 | ean:None
+   PT engine: Bowers & Wilkins 703 S3 5.1 Speaker Package - Black Gloss £7499.0
+      cand1: Bowers & Wilkins 703 S3 Floorstanding Speakers - Black Gloss | £4299.0
+      cand2: Bowers & Wilkins 606 S3 5.1 Speaker Package (607 S3 Rears) - Oak | £1949.0
+      cand3: Bowers & Wilkins 606 S3 5.1 Speaker Package (607 S3 Rears) - White | £1949.0
+   SO engine: -- none --
+      cand0: Marantz MCR 60n DAB CD/DAB/Streaming System Bowers & Wilkins 706 S3 Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x B&W 706 S3 (Gloss Black) Speakers (Pair) | £2299.0
+      cand1: Marantz MODEL 70 Integrated Amplifier Bowers & Wilkins 707 S3 Bookshelf Speakers 1 x Marantz MODEL 70 (Black) Amplifier / DAC 1 x B&W 707 S3 (Gloss Black) Speakers (Pair) | £2148.0
+      cand2: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier Bowers & Wilkins 707 S3 Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x B&W 707 S3 (Gloss Black) Speakers (Pair) | £2039.0
+      cand3: Marantz MCR 60n DAB CD/DAB/Streaming System Bowers & Wilkins 707 S3 Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x B&W 707 S3 (Gloss Black) Speakers (Pair) | £1979.0
+R61 RS | Monitor Audio Bronze 300 7G (Walnut) | £699.0 | ean:5061070620562
+   PT engine: Monitor Audio Bronze 300 7G Floorstanding Speakers - Walnut £699.0
+      cand1: Monitor Audio Silver 300 7G Floorstanding Speakers - Natural Walnut | £899.0
+      cand2: Monitor Audio Bronze 300 7G Floorstanding Speakers - Black | £699.0
+      cand3: Monitor Audio Bronze 300 7G Floorstanding Speakers - White | £699.0
+   SO engine: Monitor Audio Bronze 300 7G Floorstanding Speakers Walnut £699.0
+      cand1: Monitor Audio Bronze 300 5.1 AV System 2 x Monitor Audio Bronze On-Wall 7G (Black) Speaker (Single) 1 x Monitor Audio Bronze 300 7G (Black) Speakers (Pair) 1 x Monitor Audio Bronze Centre 7G (Black) Centre Speaker 1 x Monitor Audio Vestra W12 (Black) Subwoofer | £1999.0
+      cand2: Ruark Audio R610 Streaming System Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) | £1489.0
+      cand3: Monitor Audio Bronze 50 7G Bookshelf Speakers Walnut | £399.0
+R62 RS | Sonos Ace Ultra (Black) | £399.0 | ean:8720862506251
+   PT engine: Sonos Ace Ultra Over-ear Wireless ANC Headphones - Black £399.0
+      cand1: Sonos Ace Ultra Over-ear Wireless ANC Headphones - White | £399.0
+      cand2: Sonos Roam 2 Ultra-Portable Smart Speaker - Black | £179.0
+      cand3: Sonos Arc Ultra Wall Mount | £69.0
+   SO engine: Sonos Ace Ultra Wireless Noise Cancelling Over-Ear Headphones Black £399.0
+      cand0: Sonos Arc Ultra + Sub 4 + Ace + Era 300 (Pair) 1 x Sonos Ace (Black) Wireless Over-Ear Headphones 1 x Sonos Arc Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub 4 (Black) Wireless Subwoofer * 2 x Sonos Era 300 (Black) Wireless Speaker * | £2699.0
+      cand1: 1 x Sonos Beam Ultra (Black) Soundbar With Voice Control * 1 x Sonos Ace Ultra (Black) Wireless Over-Ear Headphones | £1093.0
+      cand2: 1 x Sonos Arc Ultra (Black) Soundbar With Voice Control * 1 x Sonos Ace (Black) Wireless Over-Ear Headphones | £1219.0
+R63 RS | Technics SU-R1000 (Silver) | £7199.0 | ean:5025232937165
+   PT engine: Technics SU-R1000 Integrated Amplifier - Silver £7199.0
+      cand1: Technics SU-GX70 Streaming Integrated Amplifier - Silver | £999.0
+      cand2: Technics SU-R1000 Integrated Amplifier - Black | £7199.0
+      cand3: Technics SL-1300G Grand Class Direct Drive Turntable - Silver | £2799.0
+   SO engine: -- none --
+      cand0: Technics SL-1500C Direct Drive Turntable Silver | £899.0
+      cand1: Technics EAH-A800 Wireless Noise Cancelling Headphones Silver | £199.0
+      cand2: Technics SA-C600 CD/Streaming System Silver | £719.0
+      cand3: Technics SL-1300G Direct Drive Turntable Silver | £2799.0
+R64 RS | KEF LS LUXE (Dusk Titanium) | £3499.0 | ean:0637203052811
+   PT engine: KEF LS Luxe Wireless HiFi Speakers - Dusk Titanium £3499.0
+      cand1: KEF LS Luxe Wireless HiFi Speakers - Mineral White | £3499.0
+      cand2: KEF LS Luxe Speaker Stands - Black | £799.0
+      cand3: KEF LS Luxe Wireless HiFi Speakers - Eclipse Black | £3499.0
+   SO engine: KEF LS LUXE Wireless Speakers Dusk Titanium £3499.0
+      cand1: KEF LS LUXE Wireless Speakers Eclipse Black | £3499.0
+      cand2: KEF LS LUXE Wireless Speakers Mineral White | £3499.0
+      cand3: KEF S-LUXE Speaker Stands | £799.0
+R65 RS | Monitor Audio AWC265 T2 | £359.0 | ean:5060028979677
+   PT engine: Monitor Audio AWC265-T2 In-Ceiling/In-Wall Speaker £359.0
+      cand1: Monitor Audio AWC265 In-Ceiling/In-Wall Speaker | £269.0
+      cand2: Monitor Audio AWC280-T2 In-Ceiling/In-Wall Speaker | £249.0
+      cand3: Monitor Audio C165-T2 In-Celling Speaker | £199.0
+   SO engine: Monitor Audio AWC265-T2 In-Ceiling Speaker (Single) £359.0
+      cand1: Monitor Audio AWC265 In-Ceiling Speaker (Single) | £269.0
+      cand2: Monitor Audio C165-T2 In-Ceiling Stereo Speaker | £174.0
+      cand3: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1298.0
+R66 RS | Bluesound PULSE CINEMA MINI (White) | £849.0 | ean:None
+   PT engine: -- none --
+      cand0: Bluesound PULSE MINI 2i Compact Wireless Multi-Room Music Streaming Speaker - Black | £579.0
+      cand1: Bluesound PULSE MINI 2i Compact Wireless Multi-Room Music Streaming Speaker - White | £579.0
+      cand2: Bluesound PULSE SOUNDBAR+ Dolby Atmos Soundbar - Black | £399.0
+      cand3: Bluesound PULSE 2i Premium Wireless Multi-Room Music Streaming Speaker - Black | £649.0
+   SO engine: -- none --
+      cand0: Bluesound PULSE CINEMA MINI + SUB + FLEX (Pair) 1 x Bluesound PULSE CINEMA MINI (P431) (Black) Soundbar 1 x Bluesound PULSE SUB (2026) SW200 (Black) Subwoofer 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker | £2149.0
+      cand1: 1 x Bluesound PULSE CINEMA MINI (P431) (Black) Soundbar 1 x Bluesound PULSE SUB (2026) SW200 (Black) Subwoofer | £1598.0
+      cand2: Bluesound PULSE CINEMA MINI Soundbar P431 | £849.0
+      cand3: Bluesound PULSE CINEMA + SUB + FLEX (Pair) 1 x Bluesound PULSE CINEMA (P530) (Black) Soundbar 1 x Bluesound PULSE SUB (2026) SW200 (Black) Subwoofer 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker 1 x Bluesound PULSE FLEX (2025) (Black/Charcoal) Hi-Res Wireless Speaker | £2499.0
+R67 RS | Monitor Audio Bronze 50 7G (Black) | £399.0 | ean:5061070620579
+   PT engine: Monitor Audio Bronze 50 7G Bookshelf Speakers - Black £399.0
+      cand1: Monitor Audio Bronze 50 7G Bookshelf Speakers - White | £399.0
+      cand2: Monitor Audio Bronze 50 7G Bookshelf Speakers - Walnut | £399.0
+      cand3: Monitor Audio Bronze AMS 7G Dolby Atmos Speakers - Black | £359.0
+   SO engine: Monitor Audio Bronze 50 7G Bookshelf Speakers Black £399.0
+      cand0: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1298.0
+      cand1: Arcam A15+ Integrated Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Arcam A15+ Integrated Amplifier 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1529.0
+      cand2: WiiM Amp Streaming Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) 1 x WiiM Amp (Space Grey) Wireless Music Streamer / Amp | £739.0
+      cand3: Arcam A5+ Integrated Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Arcam A5+ Integrated Amplifier 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1129.0
+R68 RS | WiiM Amp (Space Grey) | £359.0 | ean:0795847057231
+   PT engine: -- none --
+      cand0: WiiM Amp Ultra Streaming Integrated Amplifier - Space Grey | £549.0
+      cand1: WiiM Vibelink Amp Power Amplifier - Space Grey | £319.0
+      cand2: WiiM Ultra Streamer with DAC & Touchscreen - Space Grey | £369.0
+      cand3: WiiM Amp Ultra Streaming Integrated Amplifier - Silver | £549.0
+   SO engine: WiiM Amp Streaming Amplifier Space Grey £359.0
+      cand0: 1 x WiiM Vibelink Amp (Space Grey) Amplifier 1 x DALI KUPID (Black Ash) Speakers (Pair) | £499.0
+      cand1: WiiM Amp Ultra Streaming Amplifier Wharfedale EVO 5.3 Floorstanding Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x Wharfedale EVO5.3 (Black) Speakers (Pair) | £1439.0
+      cand2: WiiM Amp Ultra Streaming Amplifier Wharfedale EVO 5.1 Bookshelf Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x Wharfedale EVO5.1 (Black) Speakers (Pair) | £949.0
+      cand3: WiiM Amp Streaming Amplifier KEF LS50 Meta Speakers 1 x WiiM Amp (Space Grey) Wireless Music Streamer / Amp 1 x KEF LS50 Meta (Black) Loudspeakers (Pair) | £1399.0
+R69 RS | Sonos AMP & In-Ceiling By Sonance 6 Inch | £999.0 | ean:None
+   PT engine: -- none --
+      cand0: Sonos 6" In-Ceiling Speakers by Sonance (Pair) | £469.0
+      cand1: Sonos 8" In-Ceiling Speakers by Sonance (Pair) | £639.0
+      cand2: Sonos In-Wall Speakers by Sonance (Pair) | £699.0
+      cand3: Sonos Outdoor Speakers By Sonance (Pair) - White | £519.0
+   SO engine: 1 x Sonos Amp (Black) Wireless Music Streamer / Amp * 1 x Sonos In-Ceiling Speaker - 6 Inch (Pair) £999.0
+      cand1: Sonos In-Ceiling Speaker 6 inch (Pair) | £469.0
+      cand2: Sonos Amp B&W Marine 6 Outdoor Speakers (Pair) 1 x Sonos Amp (Black) Wireless Music Streamer / Amp * 1 x B&W Marine 6 (White) Pair In-Ceiling Spkrs (Pair) | £1109.0
+      cand3: Sonos Amp B&W CCM382 In Ceiling Speakers (Pair) 1 x Sonos Amp (Black) Wireless Music Streamer / Amp * 1 x B&W CCM382 (White) In-Ceiling Spkrs (Pair) | £1009.0
+R70 RS | Technics SL-G700M2 (Silver) | £2399.0 | ean:5025232934324
+   PT engine: -- none --
+      cand0: Technics SL-1300G Grand Class Direct Drive Turntable - Silver | £2799.0
+      cand1: Technics SL-1200GR2 Grand Class Direct Drive Turntable - Silver | £1599.0
+      cand2: Technics SL-1300G Grand Class Direct Drive Turntable - Black | £2799.0
+      cand3: Technics SU-GX70 Streaming Integrated Amplifier - Silver | £999.0
+   SO engine: -- none --
+      cand0: Technics SL-1500C Direct Drive Turntable Silver | £899.0
+      cand1: Technics SL-1300G Direct Drive Turntable Silver | £2799.0
+      cand2: Technics SL-1210GR2 Direct Drive Turntable | £1599.0
+      cand3: Technics SL-1200GR2 Direct Drive Turntable | £1599.0
+R71 RS | Marantz MCR 60n DAB (Champagne) | £799.0 | ean:4951035908921
+   PT engine: Marantz MCR 60n DAB Compact All-in-One Hi-Fi System - Champagne £799.0
+      cand1: Marantz MCR 60n DAB Compact All-in-One Hi-Fi System - Black | £799.0
+      cand2: Marantz MODEL 60n Streaming Integrated Amplifier - Black | £1399.0
+      cand3: Marantz MODEL 60n Streaming Integrated Amplifier - Silver Gold | £1399.0
+   SO engine: Marantz MCR 60n DAB CD/DAB/Streaming System Champagne Gold £799.0
+      cand1: Marantz MCR 60n DAB CD/DAB/Streaming System Q Acoustics 5010 Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x Q Acoustics 5010 (Satin Black) Speakers (Pair) | £1099.0
+      cand2: Marantz MCR 60n DAB CD/DAB/Streaming System Bowers & Wilkins 706 S3 Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x B&W 706 S3 (Gloss Black) Speakers (Pair) | £2299.0
+      cand3: Marantz MCR 60n DAB CD/DAB/Streaming System KEF LS50 Meta Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x KEF LS50 Meta (Black) Loudspeakers (Pair) | £1889.0
+R72 RS | KEF LSX II LT (Sage Green) | £899.0 | ean:0637203050558
+   PT engine: KEF LSX II LT Wireless Bookshelf Speaker System - Sage Green £899.0
+      cand1: KEF LSX II LT Wireless Bookshelf Speaker System - Stone White | £899.0
+      cand2: KEF LSX II Wireless Bookshelf Speaker System - Cotton White | £1249.0
+      cand3: KEF LSX II Wireless Bookshelf Speaker System - Amber Haze | £1249.0
+   SO engine: KEF LSX II LT Wireless Speakers Sage Green £899.0
+      cand1: KEF C-Link Interspeaker Cable For LSX II LT (8m) | £50.0
+      cand2: KEF LSX II LT Wireless Speakers Graphite Grey | £899.0
+      cand3: KEF LSX II LT Wireless Speakers Stone White | £899.0
+R73 RS | Technics SL-G700M2 (Black) | £2399.0 | ean:5025232934317
+   PT engine: -- none --
+      cand0: Technics SL-1300G Grand Class Direct Drive Turntable - Silver | £2799.0
+      cand1: Technics SL-1300G Grand Class Direct Drive Turntable - Black | £2799.0
+      cand2: Technics SL-40CBT Bluetooth Direct Drive Turntable - Black | £679.0
+      cand3: Technics SL-1210GR2 Grand Class Direct Drive Turntable - Black | £1599.0
+   SO engine: -- none --
+      cand0: Technics SL-1210GR2 Direct Drive Turntable | £1599.0
+      cand1: Technics SL-1200GR2 Direct Drive Turntable | £1599.0
+      cand2: Technics SL-1500CS Direct Drive Turntable | £1099.0
+      cand3: Technics SL-1500C Direct Drive Turntable Black | £899.0
+R74 RS | Bowers & Wilkins HTM6 S3 (Black) | £469.0 | ean:0714346340828
+   PT engine: Bowers & Wilkins HTM6 S3 Centre Speaker - Black £469.0
+      cand1: Bowers & Wilkins HTM6 S3 Centre Speaker - White | £469.0
+      cand2: Bowers & Wilkins HTM6 S3 Centre Speaker - Oak | £469.0
+      cand3: Bowers & Wilkins 706 S3 Bookshelf Speakers - Black Gloss | £1749.0
+   SO engine: Bowers & Wilkins HTM6 S3 Centre Speaker Black £469.0
+      cand1: Bowers & Wilkins HTM6 S3 Centre Speaker Oak | £469.0
+      cand2: Bowers & Wilkins HTM6 S3 Centre Speaker White | £469.0
+      cand3: Ruark Audio R610 Streaming System Bowers & Wilkins 603 S3 Bookshelf Speakers 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) 1 x B&W 603 S3 (Black) Speakers (Pair) | £2829.0
+R75 RS | WiiM Ultra (Space Grey) | £369.0 | ean:0602581806110
+   PT engine: WiiM Ultra Streamer with DAC & Touchscreen - Space Grey £369.0
+      cand1: WiiM Amp Ultra Streaming Integrated Amplifier - Space Grey | £549.0
+      cand2: WiiM Vibelink Amp Power Amplifier - Space Grey | £319.0
+      cand3: WiiM Amp Ultra Streaming Integrated Amplifier - Silver | £549.0
+   SO engine: WiiM Ultra Music Streamer Space Grey £369.0
+      cand0: WiiM Amp Ultra Streaming Amplifier Wharfedale EVO 5.3 Floorstanding Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x Wharfedale EVO5.3 (Black) Speakers (Pair) | £1439.0
+      cand1: WiiM Amp Ultra Streaming Amplifier Wharfedale EVO 5.1 Bookshelf Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x Wharfedale EVO5.1 (Black) Speakers (Pair) | £949.0
+      cand2: WiiM Amp Ultra Streaming Amplifier Q Acoustics 3010c Bookshelf Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x Q Acoustics 3010c (Satin Black) Speakers (Pair) | £649.0
+      cand3: WiiM Amp Ultra Streaming Amplifier KEF Q1 Meta Bookshelf Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x KEF Q1 Meta (Satin Black) Loudspeakers (Pair) | £839.0
+R76 RS | KEF Q4 Meta (Satin White) | £349.0 | ean:0637203219184
+   PT engine: KEF Q4 META On-Wall Speaker (Single) - White £339.0
+      cand1: KEF Q4 META On-Wall Speaker (Single) - Walnut | £339.0
+      cand2: KEF Q Concerto Meta Bookshelf Speakers - Satin Black | £1099.0
+      cand3: KEF Q4 META On-Wall Speaker (Single) - Black | £339.0
+   SO engine: KEF Q4 Meta On-Wall Speaker (Single) Satin White £339.0
+      cand0: KEF Q4 Meta On-Wall Speaker (Single) Satin Black | £339.0
+      cand2: Ruark Audio R610 Streaming System KEF Q7 Meta Floorstanding Speakers 1 x KEF Q7 Meta (Satin Black) Loudspeakers (Pair) 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) | £2339.0
+      cand3: Ruark Audio R710 CD Streaming System KEF Q7 Meta Floorstanding Speakers 1 x Ruark Audio R710 (Fused Walnut) CD/Streaming System (Ex Speakers) 1 x KEF Q7 Meta (Satin Black) Loudspeakers (Pair) | £3239.0
+R77 RS | Monitor Audio W3M | £999.0 | ean:5060565774285
+   PT engine: Monitor Audio Creator Series W3M In-Wall Speaker £999.0
+      cand1: Monitor Audio Silver 100 8G Bookshelf Speakers - Satin White | £1499.0
+      cand2: Monitor Audio Gold 500 6G Floorstanding Speakers - White | £5499.0
+      cand3: Monitor Audio Creator W2M In-Wall Speaker | £600.0
+   SO engine: -- none --
+      cand0: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1298.0
+      cand1: Monitor Audio BRB Wall Bracket | £30.0
+      cand2: 1 x Naim Uniti Nova (Black) Streaming System (Ex Speakers) 1 x Monitor Audio Studio 89 (Black) Speakers (Pair) | £5759.0
+      cand3: Arcam A15+ Integrated Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Arcam A15+ Integrated Amplifier 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1529.0
+R78 RS | Bowers & Wilkins 603 S3 (Oak) | £1849.0 | ean:0714346340729
+   PT engine: Bowers & Wilkins 603 S3 Floorstanding Speakers - Oak £1849.0
+      cand1: Bowers & Wilkins 606 S3 5.1 Speaker Package (607 S3 Rears) - Oak | £1949.0
+      cand2: Bowers & Wilkins 603 S3 Floorstanding Speakers - White | £1849.0
+      cand3: Bowers & Wilkins 603 S3 Floorstanding Speakers - Black | £1849.0
+   SO engine: Bowers & Wilkins 603 S3 Floorstanding Speakers Oak £1849.0
+      cand1: Ruark Audio R610 Streaming System Bowers & Wilkins 603 S3 Bookshelf Speakers 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) 1 x B&W 603 S3 (Black) Speakers (Pair) | £2829.0
+      cand2: Audiolab 7000A Amplifier Bowers & Wilkins 603 3 Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x B&W 603 S3 (Black) Speakers (Pair) | £2489.0
+      cand3: WiiM Amp Ultra Streaming Amplifier Bowers & Wilkins 603 S3 Floorstanding Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x B&W 603 S3 (Black) Speakers (Pair) | £1949.0
+R79 RS | Sonos Ace (Black) & Arc Ultra (White) | £1219.0 | ean:None
+   PT engine: -- none --
+      cand0: Sonos Ace Ultra Over-ear Wireless ANC Headphones - White | £399.0
+      cand1: Sonos Arc Ultra Wall Mount | £69.0
+      cand2: Sonos Arc Ultra 9.1.4-channel Dolby Atmos Premium Smart Soundbar - White | £939.0
+      cand3: Sonos Ace Ultra Over-ear Wireless ANC Headphones - Black | £399.0
+   SO engine: -- none --
+      cand0: Sonos Arc Ultra + Sub 4 + Ace + Era 300 (Pair) 1 x Sonos Ace (Black) Wireless Over-Ear Headphones 1 x Sonos Arc Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub 4 (Black) Wireless Subwoofer * 2 x Sonos Era 300 (Black) Wireless Speaker * | £2699.0
+      cand1: 1 x Sonos Arc Ultra (Black) Soundbar With Voice Control * 1 x Sonos Ace (Black) Wireless Over-Ear Headphones | £1219.0
+      cand2: Sonos Arc Ultra + Sub 4 + Era 100 (Pair) 1 x Sonos Arc Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub 4 (Black) Wireless Subwoofer * 2 x Sonos Era 100 (Black) Wireless Speaker * | £1959.0
+      cand3: Sonos Arc Ultra + Era 300 (Pair) 1 x Sonos Arc Ultra (Black) Soundbar With Voice Control * 2 x Sonos Era 300 (Black) Wireless Speaker * | £1789.0
+R80 RS | Denon AVC-A10H (Black) | £3949.0 | ean:4951035908426
+   PT engine: -- none --
+      cand0: Denon AVC-X3900H 9.4 Ch. 105W 4K/8K Dolby Atmos AV Amplifier Powered by HEOS - Black | £1299.0
+      cand1: Denon AVC-X4800H 9.4 Ch. 200W 8K AV Amplifier with HEOS Built-in - Black | £1999.0
+      cand2: Denon AVC-X4800H 9.4 Ch. 200W 8K AV Amplifier with HEOS Built-in - Silver | £1999.0
+      cand3: Denon Home 600 Wireless Smart Speaker Powered by HEOS with Dolby Atmos Music (PAIR) - Stone | £1079.0
+   SO engine: -- none --
+      cand0: Denon AVC-X4800H AV Amplifier | £1999.0
+      cand1: Denon AVC-X3900H AV Amplifier | £1299.0
+      cand2: Denon AVC-X6800H AV Amplifier | £2799.0
+      cand3: Denon CEOL RCD-N12DAB CD/DAB/Streaming System Wharfedale EVO 5.2 Bookshelf Speakers 1 x Denon CEOL RCD-N12DAB (Black) CD/DAB/Streaming System 1 x Wharfedale EVO5.2 (Black) Speakers (Pair) | £1219.0
+R81 RS | KEF Ci3160RL-THX | £1249.0 | ean:None
+   PT engine: -- none --
+      cand0: KEF Ci200RR-THX Round In-Wall/In-Ceiling Speaker | £679.0
+      cand1: KEF Ci3160RLb-THX Rectangular In-Wall Subwoofer | £999.0
+      cand2: KEF CI200RS-THX Square In-Wall/In-Ceiling Speaker | £549.0
+      cand3: KEF CI200QSB-THX Square In-Wall/Ceiling Subwoofer (Pair) | £898.0
+   SO engine: -- none --
+      cand0: Sonos Amp KEF Ci200RR THX In Ceiling Speakers (Pair) 2 x KEF Ci200RR THX (White) In-Wall Speaker(Single) 1 x Sonos Amp (Black) Wireless Music Streamer / Amp * | £1759.0
+      cand1: KEF Ci200RR THX In-Ceiling Speaker (Single) | £649.0
+      cand2: KEF S-LUXE Speaker Stands | £799.0
+      cand3: Technics SA-C600 CD/Streaming System KEF LS50 Meta Bookshelf Speakers 1 x Technics SA-C600 (Black) CD/Streaming System 1 x KEF LS50 Meta (Black) Loudspeakers (Pair) | £1849.0
+R82 RS | Monitor Audio Silver AMS (7G) (Gloss Black) | £499.0 | ean:5060565776753
+   PT engine: -- none --
+      cand0: Monitor Audio Silver 200 7G Floorstanding Speakers - Black Gloss | £749.0
+      cand1: Monitor Audio Silver AMS 8G Dolby Atmos Speakers - Black High Gloss | £899.0
+      cand2: Monitor Audio Silver 300 7G Floorstanding Speakers - Black Gloss | £899.0
+      cand3: Monitor Audio Bronze AMS 7G Dolby Atmos Speakers - Black | £359.0
+   SO engine: -- none --
+      cand0: Monitor Audio Silver AMS 8G Dolby Atmos Enabled Speakers High Gloss Black | £899.0
+      cand1: Monitor Audio Silver 100 8G Bookshelf Speakers High Gloss Black | £1499.0
+      cand2: Monitor Audio Silver 50 8G Bookshelf Speakers High Gloss Black | £799.0
+      cand3: Monitor Audio Bronze AMS 7G Dolby Atmos Enabled Speakers Black | £359.0
+R83 RS | KEF LS50 Wireless II (Crimson Red Special Edition) | £1999.0 | ean:0637203046957
+   PT engine: -- none --
+      cand0: KEF LS50 Wireless II Wireless Bookshelf Speaker System - Mineral White | £2199.0
+      cand1: KEF LS50 Wireless II Wireless Bookshelf Speaker System - Moss Green | £2199.0
+      cand2: KEF LS50 Wireless II Wireless Bookshelf Speaker System - Carbon Black | £2199.0
+      cand3: KEF LS50 Wireless II Wireless Bookshelf Speaker System - Sand Shell | £2199.0
+   SO engine: -- none --
+      cand0: KEF LS50 Wireless II Speakers Black | £2199.0
+      cand1: KEF LS50 Wireless II Speakers Moss Green | £2199.0
+      cand2: KEF LS50 Wireless II Speakers Sand Shell | £2199.0
+      cand3: KEF LS50 Wireless II Speakers White | £2199.0
+R84 RS | KEF Q Concerto Meta (Satin Black) | £1099.0 | ean:0637203219108
+   PT engine: KEF Q Concerto Meta Bookshelf Speakers - Satin Black £1099.0
+      cand1: KEF Q Concerto Meta Bookshelf Speakers - Satin White | £1099.0
+      cand2: KEF Q Concerto Meta Bookshelf Speakers - Walnut | £1099.0
+      cand3: KEF Reference 1 Meta Bookshelf Speakers - Satin Walnut / Silver | £8999.0
+   SO engine: KEF Q Concerto Meta Bookshelf Speakers Satin Black £1099.0
+      cand0: Marantz MCR 60n DAB CD/DAB/Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) | £1709.0
+      cand1: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier KEF Q Concerto Meta Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) | £1799.0
+      cand2: Technics SA-C600 CD/Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x Technics SA-C600 (Black) CD/Streaming System 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) | £1589.0
+      cand3: Ruark Audio R610 Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) | £2069.0
+R85 RS | KEF Q Concerto Meta (Walnut) | £1099.0 | ean:0637203219085
+   PT engine: KEF Q Concerto Meta Bookshelf Speakers - Walnut £1099.0
+      cand1: KEF Q Concerto Meta Bookshelf Speakers - Satin Black | £1099.0
+      cand2: KEF Q Concerto Meta Bookshelf Speakers - Satin White | £1099.0
+      cand3: KEF Q11 Meta Floorstanding Speakers - Walnut | £1749.0
+   SO engine: KEF Q Concerto Meta Bookshelf Speakers Walnut £1099.0
+      cand0: Ruark Audio R610 Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) | £2069.0
+      cand1: Ruark Audio R710 CD Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x Ruark Audio R710 (Fused Walnut) CD/Streaming System (Ex Speakers) 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) | £2969.0
+      cand3: Marantz MCR 60n DAB CD/DAB/Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) | £1709.0
+R86 RS | Technics SL-1500C (White) | £899.0 | ean:5025232945825
+   PT engine: -- none --
+      cand0: Technics SL-1300G Grand Class Direct Drive Turntable - Silver | £2799.0
+      cand1: Technics SL-1300G Grand Class Direct Drive Turntable - Black | £2799.0
+      cand2: Technics SL-40CBT Bluetooth Direct Drive Turntable - Black | £679.0
+      cand3: Technics SL-1210GR2 Grand Class Direct Drive Turntable - Black | £1599.0
+   SO engine: Technics SL-1500C Direct Drive Turntable White £899.0
+      cand0: Technics SL-1500C Direct Drive Turntable Black | £899.0
+      cand1: Technics SL-1500C Direct Drive Turntable Silver | £899.0
+      cand3: Technics SL-1210GR2 Direct Drive Turntable | £1599.0
+R87 RS | Bowers & Wilkins 704 S3 (Mocha) | £3149.0 | ean:0714346339426
+   PT engine: -- none --
+      cand0: Bowers & Wilkins 707 S3 Bookshelf Speakers - Mocha | £1399.0
+      cand1: Bowers & Wilkins HTM71 S3 Centre Speaker - Mocha | £1799.0
+      cand2: Bowers & Wilkins HTM72 S3 Centre Speaker - Mocha | £1099.0
+      cand3: Bowers & Wilkins 704 S3 Floorstanding Speakers - Black Gloss | £3149.0
+   SO engine: Bowers & Wilkins 704 S3 Floorstanding Speakers Mocha £3149.0
+      cand1: Bowers & Wilkins 706 S3 Bookshelf Speakers Mocha | £1749.0
+      cand2: Bowers & Wilkins 705 S3 Bookshelf Speakers Mocha | £2799.0
+      cand3: Bowers & Wilkins 704 S3 Floorstanding Speakers Gloss Black | £3149.0
+R88 RS | Ruark Audio Sabre-R (Charcoal) | £699.0 | ean:5060637250341
+   PT engine: Ruark Audio Sabre-R Bookshelf Speakers - Charcoal £699.0
+      cand1: Ruark Talisman-R Floorstanding Speakers - Charcoal Grey | £1499.0
+      cand2: Ruark Audio R-CD100 CD Player - Fused Walnut Veneer Case with Aluminium Top | £249.0
+      cand3: Ruark Audio Remote Control for R1 MK4, R1S & R2 MK4 | £14.0
+   SO engine: Ruark Audio Sabre-R Bookshelf Speakers Charcoal £699.0
+      cand1: Marantz MODEL 70 Integrated Amplifier Ruark Audio Sabre-R Bookshelf Speakers 1 x Ruark Audio Sabre-R (Fused Walnut) Loudspeakers (Pair) 1 x Marantz MODEL 70 (Black) Amplifier / DAC | £1448.0
+      cand2: Marantz MCR 60n DAB CD/DAB/Streaming System Ruark Audio Sabre-R Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x Ruark Audio Sabre-R (Fused Walnut) Loudspeakers (Pair) | £1349.0
+      cand3: WiiM Amp Ultra Streaming Amplifier Ruark Audio Sabre-R Bookshelf Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x Ruark Audio Sabre-R (Fused Walnut) Loudspeakers (Pair) | £1079.0
+R89 RS | Monitor Audio Silver 50 (7G) (Satin White) | £449.0 | ean:5060565776470
+   PT engine: -- none --
+      cand0: Monitor Audio Silver 50 8G Bookshelf Speakers - Satin White | £799.0
+      cand1: Monitor Audio Silver 100 8G Bookshelf Speakers - Satin White | £1499.0
+      cand2: Monitor Audio Silver 50 8G Bookshelf Speakers - Walnut | £799.0
+      cand3: Monitor Audio Silver 500 8G Floorstanding Speakers - Satin White | £2649.0
+   SO engine: -- none --
+      cand0: Monitor Audio Silver 50 8G Bookshelf Speakers Satin White | £799.0
+      cand1: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1298.0
+      cand2: Arcam A15+ Integrated Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Arcam A15+ Integrated Amplifier 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) | £1529.0
+      cand3: WiiM Amp Streaming Amplifier Monitor Audio Bronze 50 7G Bookshelf Speakers 1 x Monitor Audio Bronze 50 7G (Black) Speakers (Pair) 1 x WiiM Amp (Space Grey) Wireless Music Streamer / Amp | £739.0
+R90 RS | KEF Muo (Midnight Black) | £249.0 | ean:0637203051807
+   PT engine: KEF Muo Hi-Fi Bluetooth Speaker - Midnight Black £249.0
+      cand1: KEF Muo Hi-Fi Bluetooth Speaker - Amber Haze | £249.0
+      cand2: KEF Muo Hi-Fi Bluetooth Speaker - Cocoa Brown | £249.0
+      cand3: KEF Coda W Wireless Bookshelf Speaker System - Midnight Blue | £799.0
+   SO engine: KEF Muo Portable Bluetooth Speaker Midnight Black £249.0
+      cand1: KEF Coda W Wireless Speakers Midnight Blue | £799.0
+      cand2: KEF Muo Portable Bluetooth Speaker Amber Haze | £249.0
+      cand3: KEF Muo Portable Bluetooth Speaker Cocoa Brown | £249.0
+R91 RS | Bowers & Wilkins HTM71 S3 Signature (Datuk Gloss) | £2299.0 | ean:0714346339921
+   PT engine: Bowers & Wilkins HTM71 S3 Signature Centre Speaker - Datuk Gloss £2299.0
+      cand1: Bowers & Wilkins 702 S3 Signature Floorstanding Speakers - Datuk Gloss | £7299.0
+      cand2: Bowers & Wilkins 705 S3 Signature Bookshelf Speakers - Datuk Gloss | £3499.0
+      cand3: Bowers & Wilkins HTM71 S3 Centre Speaker - Black Gloss | £1799.0
+   SO engine: Bowers & Wilkins HTM71 S3 Signature Centre Speaker Datuk Gloss £2299.0
+      cand1: Bowers & Wilkins 702 S3 Signature Floorstanding Speakers Datuk Gloss | £7299.0
+      cand2: Bowers & Wilkins 705 S3 Signature Bookshelf Speakers Datuk Gloss | £3499.0
+      cand3: Bowers & Wilkins HTM71 S3 Centre Speaker Gloss Black | £1799.0
+R92 RS | Audiolab 9000N (Silver) | £2499.0 | ean:6975268785034
+   PT engine: Audiolab 9000N Streamer - Silver £2499.0
+      cand1: Audiolab 9000P Power Amplifier - Silver | £1099.0
+      cand2: Audiolab 9000CDT CD Transport - Silver | £999.0
+      cand3: Audiolab DC Block 6 Mains Filter & Direct Current Blocker - Silver | £349.0
+   SO engine: Audiolab 9000N Wireless Music Streamer Silver £2499.0
+      cand1: Audiolab 9000N Wireless Music Streamer Black | £2499.0
+      cand2: Audiolab DC Block 6 Direct Current Blocker Silver | £349.0
+      cand3: Audiolab 9000CDT CD Transport Silver | £999.0
+R93 RS | KEF Q4 Meta (Walnut) | £349.0 | ean:0637203219191
+   PT engine: KEF Q4 META On-Wall Speaker (Single) - Walnut £339.0
+      cand1: KEF Q11 Meta Floorstanding Speakers - Walnut | £1749.0
+      cand2: KEF Q6 Meta Centre Speaker - Walnut | £699.0
+      cand3: KEF Q1 Meta Bookshelf Speakers - Walnut | £499.0
+   SO engine: KEF Q4 Meta On-Wall Speaker (Single) Walnut £339.0
+      cand1: Ruark Audio R610 Streaming System KEF Q7 Meta Floorstanding Speakers 1 x KEF Q7 Meta (Satin Black) Loudspeakers (Pair) 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) | £2339.0
+      cand2: Ruark Audio R710 CD Streaming System KEF Q7 Meta Floorstanding Speakers 1 x Ruark Audio R710 (Fused Walnut) CD/Streaming System (Ex Speakers) 1 x KEF Q7 Meta (Satin Black) Loudspeakers (Pair) | £3239.0
+      cand3: Ruark Audio R610 Streaming System KEF Q Concerto Meta Bookshelf Speakers 1 x KEF Q Concerto Meta (Satin Black) Loudspeakers (Pair) 1 x Ruark Audio R610 (Fused Walnut) Streaming System (Ex Speakers) | £2069.0
+R94 RS | Bowers & Wilkins 703 S3 (Mocha) | £4299.0 | ean:0714346339419
+   PT engine: Bowers & Wilkins 703 S3 Floorstanding Speakers - Mocha £4299.0
+      cand1: Bowers & Wilkins 703 S3 Floorstanding Speakers - Black Gloss | £4299.0
+      cand2: Bowers & Wilkins 707 S3 Bookshelf Speakers - Mocha | £1399.0
+      cand3: Bowers & Wilkins 703 S3 Floorstanding Speakers - Satin White | £4299.0
+   SO engine: Bowers & Wilkins 703 S3 Floorstanding Speakers Mocha £4299.0
+      cand1: Bowers & Wilkins 706 S3 Bookshelf Speakers Mocha | £1749.0
+      cand2: Bowers & Wilkins 705 S3 Bookshelf Speakers Mocha | £2799.0
+      cand3: Bowers & Wilkins 704 S3 Floorstanding Speakers Mocha | £3149.0
+R95 RS | Audiolab 9000N (Black) | £2499.0 | ean:6974017846323
+   PT engine: Audiolab 9000N Streamer - Black £2499.0
+      cand0: Audiolab 9000CDT CD Transport - Black | £999.0
+      cand1: Audiolab 9000N Streamer - Silver | £2499.0
+      cand3: Audiolab DC Block Direct Current Blocker - Black | £99.0
+   SO engine: Audiolab 9000N Wireless Music Streamer Black £2499.0
+      cand1: Audiolab 9000N Wireless Music Streamer Silver | £2499.0
+      cand2: Audiolab 9000P Power Amplifier | £1099.0
+      cand3: Audiolab 7000A Amplifier Bowers & Wilkins 607 3 Speakers 1 x Audiolab 7000A (Black) Stereo Amplifier 1 x B&W 607 S3 (Black) Speakers (Pair) | £1419.0
+R96 RS | Monitor Audio Radius 200 (Black) | £149.0 | ean:5060028973606
+   PT engine: Monitor Audio Radius 200 Centre Speaker - Black £99.0
+      cand1: Monitor Audio Radius 1 4G Bookshelf Speakers - Satin White | £424.0
+      cand2: Monitor Audio Radius On-Wall 4G Speakers - High Gloss Black | £449.0
+      cand3: Monitor Audio Platinum 200 3G Floorstanding Speakers - Pure Satin White | £8999.0
+   SO engine: -- none --
+      cand0: Monitor Audio Cinergy 200 On Wall Speaker (Single) | £3500.0
+      cand1: Monitor Audio Radius 1 4G Bookshelf Speakers High Gloss Black | £424.0
+      cand2: Monitor Audio Radius 1 4G Bookshelf Speakers Satin White | £424.0
+      cand3: Monitor Audio Radius Floor Stand 4G Speaker Stands Black | £299.0
+R97 RS | Ruark Audio Remote Control for R1 Mk4, R1S & R2 Mk4 | £15.0 | ean:5060637250105
+   PT engine: Ruark Audio Remote Control for R1 MK4, R1S & R2 MK4 £14.0
+      cand1: Ruark Audio R2 Mk4 Smart Music System - Light Cream Lacquer with Ash Grille | £479.0
+      cand2: Ruark Audio R2 Mk4 Smart Music System - Espresso Lacquer with Walnut Grille | £479.0
+      cand3: Ruark Audio R1S Smart Radio - Mid Grey Lacquer with Walnut Grille | £299.0
+   SO engine: -- none --
+      cand0: Ruark Audio R2 MK4 Wireless Speaker Espresso | £479.0
+      cand1: Ruark Audio R2 MK4 Wireless Speaker Light Cream | £479.0
+      cand2: Ruark Audio R1S Terracota Smart Radio | £319.0
+      cand3: Ruark Audio R1S Smart Radio Charcoal | £299.0
+R98 RS | Sonos Roam Wireless Charger (White) | £44.0 | ean:8717755777980
+   PT engine: Sonos Roam Wireless Charger £49.0
+      cand1: Sonos Roam Wireless Charger - Black | £49.0
+      cand2: Sonos Roam 2 Ultra-Portable Smart Speaker - Black | £179.0
+      cand3: Sonos Ace Ultra Over-ear Wireless ANC Headphones - White | £399.0
+   SO engine: -- none --
+      cand0: 1 x Sonos Amp (Black) Wireless Music Streamer / Amp * 1 x Sonos In-Ceiling Speaker - 6 Inch (Pair) | £999.0
+      cand1: Sonos Beam Ultra + Sonos Sub 4 + Sonos Era 300 (Pair) 1 x Sonos Beam Ultra (Black) Soundbar With Voice Control * 1 x Sonos Sub 4 (Black) Wireless Subwoofer * 2 x Sonos Era 300 (Black) Wireless Speaker * | £2387.0
+      cand2: Sonos Five (Pair) 1 x Sonos Five (Black) Wireless Speaker * 1 x Sonos Five (Black) Wireless Speaker * | £949.0
+      cand3: 1 x Sonos Beam (Gen 2) (Black) Soundbar With Voice Control * 1 x Sonos Sub 4 (Black) Wireless Subwoofer * | £1119.0
+R99 RS | Ruark Audio R-CD100 (Ebony) | £249.0 | ean:5060637250556
+   PT engine: -- none --
+      cand0: Ruark Audio R-CD100 CD Player - Fused Walnut Veneer Case with Aluminium Top | £249.0
+      cand1: Ruark Audio Sabre-R Bookshelf Speakers - Charcoal | £699.0
+      cand2: Ruark Audio Remote Control for R1 MK4, R1S & R2 MK4 | £14.0
+      cand3: Ruark Audio R1S Smart Radio - Mid Grey Lacquer with Walnut Grille | £299.0
+   SO engine: Ruark Audio R-CD100 CD Player Ebony £249.0
+      cand1: Ruark Audio R-CD100 CD Player Fused Walnut | £249.0
+      cand2: Marantz MODEL 70 Integrated Amplifier Ruark Audio Sabre-R Bookshelf Speakers 1 x Ruark Audio Sabre-R (Fused Walnut) Loudspeakers (Pair) 1 x Marantz MODEL 70 (Black) Amplifier / DAC | £1448.0
+      cand3: Ruark Audio R710 CD Streaming System Ruark Audio Talisman-R Floorstanding Speakers 1 x Ruark Audio R710 (Fused Walnut) CD/Streaming System (Ex Speakers) 1 x Ruark Audio Talisman-R (Fused Walnut) Loudspeakers (Pair) | £3698.0
+R100 RS | KEF Q1 Meta (Satin White) | £499.0 | ean:0637203219153
+   PT engine: KEF Q1 Meta Bookshelf Speakers - White £499.0
+      cand1: KEF Q1 Meta Bookshelf Speakers - Walnut | £499.0
+      cand2: KEF Q Concerto Meta Bookshelf Speakers - Satin Black | £1099.0
+      cand3: KEF Reference 1 Meta Bookshelf Speakers - Satin Walnut / Silver | £8999.0
+   SO engine: KEF Q1 Meta Bookshelf Speakers Satin White £499.0
+      cand0: Bluesound POWERNODE (2025) Hi-Res Wireless Music Streamer / Amplifier KEF Q1 Meta Bookshelf Speakers 1 x Bluesound POWERNODE (N331) (Black) Wireless Music Streamer / Amp 1 x KEF Q1 Meta (Satin Black) Loudspeakers (Pair) | £1339.0
+      cand1: WiiM Amp Ultra Streaming Amplifier KEF Q1 Meta Bookshelf Speakers 1 x WiiM Amp Ultra (Space Grey) Wireless Music Streamer / Amp 1 x KEF Q1 Meta (Satin Black) Loudspeakers (Pair) | £839.0
+      cand2: Marantz MCR 60n DAB CD/DAB/Streaming System KEF Q1 Meta Bookshelf Speakers 1 x Marantz MCR 60n DAB (Black) CD/DAB/Streaming System (Ex Speakers) 1 x KEF Q1 Meta (Satin Black) Loudspeakers (Pair) | £1169.0
+      cand3: Marantz MODEL 70 Integrated Amplifier KEF Q1 Meta Bookshelf Speakers 1 x KEF Q1 Meta (Satin Black) Loudspeakers (Pair) 1 x Marantz MODEL 70 (Black) Amplifier / DAC | £1248.0
